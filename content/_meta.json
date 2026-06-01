@@ -1,0 +1,18 @@
+{
+  "index": {
+    "title": "Home",
+    "type": "page"
+  },
+  "acts": {
+    "title": "Acts",
+    "type": "page"
+  },
+  "regulations": {
+    "title": "Regulations",
+    "type": "page"
+  },
+  "gazettes": {
+    "title": "Gazettes",
+    "type": "page"
+  }
+}

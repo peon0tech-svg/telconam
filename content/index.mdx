@@ -1,0 +1,44 @@
+# Telecommunication Environment for Namibia (TelcoNam)
+
+Welcome to the **TelcoNam** documentation portal. This is a comprehensive, searchable database of the legislative and regulatory framework governing the telecommunications sector in the Republic of Namibia.
+
+---
+
+<div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '1.5rem', margin: '2.5rem 0' }}>
+  <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', padding: '1.5rem', border: '1px solid var(--nextra-primary-hue)', borderRadius: '0.75rem', background: 'rgba(59, 130, 246, 0.05)' }}>
+    <span style={{ fontSize: '2.5rem', fontWeight: '800', color: '#3b82f6' }}>3</span>
+    <span style={{ marginTop: '0.5rem', fontSize: '0.875rem', fontWeight: '500', opacity: 0.8 }}>Primary Acts</span>
+  </div>
+  <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', padding: '1.5rem', border: '1px solid var(--nextra-primary-hue)', borderRadius: '0.75rem', background: 'rgba(99, 102, 241, 0.05)' }}>
+    <span style={{ fontSize: '2.5rem', fontWeight: '800', color: '#6366f1' }}>55</span>
+    <span style={{ marginTop: '0.5rem', fontSize: '0.875rem', fontWeight: '500', opacity: 0.8 }}>Regulations & Guidelines</span>
+  </div>
+  <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', padding: '1.5rem', border: '1px solid var(--nextra-primary-hue)', borderRadius: '0.75rem', background: 'rgba(139, 92, 246, 0.05)' }}>
+    <span style={{ fontSize: '2.5rem', fontWeight: '800', color: '#8b5cf6' }}>301</span>
+    <span style={{ marginTop: '0.5rem', fontSize: '0.875rem', fontWeight: '500', opacity: 0.8 }}>Official Gazettes</span>
+  </div>
+</div>
+
+## Browse the Database
+
+Choose a section below to explore the legal framework:
+
+import { Cards } from 'nextra/components'
+
+<Cards>
+  <Cards.Card
+    icon="📡"
+    title="Primary Acts"
+    href="/acts"
+  />
+  <Cards.Card
+    icon="📜"
+    title="Regulations"
+    href="/regulations"
+  />
+  <Cards.Card
+    icon="📰"
+    title="Regulatory Gazettes"
+    href="/gazettes"
+  />
+</Cards>
