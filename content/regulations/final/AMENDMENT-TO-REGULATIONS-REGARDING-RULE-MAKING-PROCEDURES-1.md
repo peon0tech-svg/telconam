@@ -1,8 +1,6 @@
 
 
-## GOVERNMENT GAZETTE OF THE
-
-## REPUBLIC OF NAMIBIA
+## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
 N$6.00
 
@@ -30,7 +28,8 @@ No. 554
 
 The Communications Regulatory Authority of Namibia, under sections 129 of the Communications Act, 2009 (Act No. 8 of 2009), after having followed the rule-making procedure in terms of the Regulations Regarding Rule-Making Procedures published under General Notice No. 334 of 17 December 2010, has amended the regulations as set out in the Schedule.
 
-H. M. GAOMAB II CHAIRPERSON
+**H. M. GAOMAB II**  
+CHAIRPERSON
 
 ## Definitions
 

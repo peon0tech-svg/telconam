@@ -1,10 +1,6 @@
 
 
-## GOVERNMENT GAZETTE
-
-## OF THE
-
-## REPUBLIC OF NAMIBIA
+## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
 | N$87.60                               | WINDHOEK - 28 October 2016                                                                                                                                                                                                                                 | No. 6160                                                                                                                                                                          |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -70,7 +66,9 @@ Figure 3
 | A3                       | 832-862                              | 11                    | 791-821                        | 41                      | None                         |
 | A5                       | 703-748                              | 10                    | 758-803                        | 55                      | None                         |
 
-F. KISHI CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**F. KISHI**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ---
 
@@ -405,7 +403,7 @@ In this Frequency Band Plan, any word or expression to which a meaning is assign
 | 156.8375-161.9375 MHz FIXED MOBILE except aero- nautical mobile 5.226                                                     | 156.8375-161.9375MHz MOBILE except aero- nautical mobile 5.226                                                            | 156.8375-157.45 MHz Maritime mobile communications (ship stations). Land mobile in areas remote from coast.                                                                       | 156.8375-161.9375MHz MOBILE except aero- nautical mobile 5.226                                                            | Paired with 161.5- 162.0 MHz and single frequency applications; ITU RRArticles 31 and 52 and Appendix 18 apply. |
 | 156.8375-161.9375 MHz FIXED MOBILE except aero- nautical mobile 5.226                                                     | 156.8375-161.9375MHz MOBILE except aero- nautical mobile 5.226                                                            | 157.450-160.6 MHz PMR and/or PAMR                                                                                                                                                 | 156.8375-161.9375MHz MOBILE except aero- nautical mobile 5.226                                                            |                                                                                                                 |
 | 156.8375-161.9375 MHz FIXED MOBILE except aero- nautical mobile 5.226                                                     | 156.8375-161.9375MHz MOBILE except aero- nautical mobile 5.226                                                            | 160.600-160.975 MHz Maritime mobile com- munications (Coast stations). Land mobile in areas remote from coast.                                                                    | 156.8375-161.9375MHz MOBILE except aero- nautical mobile 5.226                                                            | Paired with 156.025- 156.350 MHz; ITU RR Articles 31 and 52 and Appendix 18 apply.                              |
-| 156.8375-161.9375 MHz FIXED MOBILE except aero- nautical mobile 5.226                                                     | 156.8375-161.9375MHz MOBILE except aero- nautical mobile 5.226                                                            | 160.975-161.475 MHz PMR and/or PAMR                                                                                                                                               | 156.8375-161.9375MHz MOBILE except aero- nautical mobile 5.226                                                            | Single frequency ap- plications.                                                                                |
+| 156.8375-161.9375 MHz FIXED MOBILE except aero- nautical mobile 5.226                                                     | 156.8375-161.9375MHz MOBILE except aero- nautical mobile 5.226                                                            | 160.975-161.475 MHz PMR and/or PAMR                                                                                                                                               | 156.8375-161.9375MHz MOBILE except aero- nautical mobile 5.226                                                            | Single frequency applications.                                                                                |
 | 156.8375-161.9375 MHz FIXED MOBILE except aero- nautical mobile 5.226                                                     | 156.8375-161.9375MHz MOBILE except aero- nautical mobile 5.226                                                            | 161.475-162.050 MHz Maritime mobile com- munications (Coast stations) Land mobile in areas remote from coast Automatic Identification System (AIS) at 161.975 MHz and 162.025 MHz | 156.8375-161.9375MHz MOBILE except aero- nautical mobile 5.226                                                            | Paired with 156.9-157.4 MHz; ITU RRArticles 31 and 52 and Appendix 18 apply.                                    |
 | 156.8375-161.9375 MHz FIXED MOBILE except aero- nautical mobile 5.226                                                     | 156.8375-161.9375MHz MOBILE except aero- nautical mobile 5.226                                                            | 162.050-174 MHz PMR and/or PAMR                                                                                                                                                   | 156.8375-161.9375MHz MOBILE except aero- nautical mobile 5.226                                                            |                                                                                                                 |
 | 161.9375-161.9625 MHz FIXED MOBILE except aero- nautical mobile Maritime mobile- satellite (Earth-to-space) 5.228AA 5.226 | 161.9375-161.9625 MHz FIXED MOBILE except aero- nautical mobile Maritime mobile- satellite (Earth-to-space) 5.228AA 5.226 |                                                                                                                                                                                   | 161.9375-161.9625 MHz FIXED MOBILE except aero- nautical mobile Maritime mobile- satellite (Earth-to-space) 5.228AA 5.226 |                                                                                                                 |
@@ -2362,8 +2360,7 @@ WAS - Wireless Access System
 
 WRC - World Radiocommunication Conference
 
-## F. KISHI
-
-## CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
-
+**F. KISHI**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 ---

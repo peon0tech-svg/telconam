@@ -1,10 +1,6 @@
 
 
-## GOVERNMENT GAZETTE
-
-## OF THE
-
-## REPUBLIC OF NAMIBIA
+## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
 N$6.00
 
@@ -30,7 +26,9 @@ No. 134 Communications Regulatory Authority of Namibia: Amendment of the Broadca
 
 The Communications Regulatory Authority of Namibia in terms of regulation 12(1) of the Regulations Regarding Rule-Making Procedures published in the Government Gazette No. 4630, General Notice No. 334 of 17 December 2010 amends the Broadcasting Code for Broadcasting Licensees published in the Government Gazette No. 6750, General Notice No. 602 dated 31 October 2018 as set out in the Schedule.
 
-## F. KISHI CHAIRPERSON COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**F. KISHI**  
+CHAIRPERSON  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ## SCHEDULE 1
 

@@ -1,10 +1,6 @@
 
 
-## GOVERNMENTGAZETTE
-
-OF THE
-
-## REPUBLIC OF NAMIBIA
+## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
 | N$13.80 WINDHOEK-30August2021                                                                                  | N$13.80 WINDHOEK-30August2021                                                                                                                                                                                                                           | No.7613                                                                                                                                             |
 |----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -80,4 +76,6 @@ AMENDMENTTOREGULATIONSPRESCRIBINGTHENATIONALNUMBERING PLANFORUSEINTHEPROVISIONOF
 
 The CommunicationsRegulatoryAuthority of Namibia,in terms of Sections81(5) and129of the CommunicationsAct,2009(Act No.8of2009),amends theRegulationsPrescribing theNational NumberingPlanforUsein theProvisionof TelecommunicationsServices in theRepublicof Namibia,Numbering Licence Fees and Procedures for Number Licences as published in the GovernmentGazetteNo.5983,GeneralNoticeNo.18dated01April2021assetout intheSchedule.
 
-H.M.GAOMABII CHAIRPERSON COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
+**H.M.GAOMABII**  
+CHAIRPERSON  
+COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA

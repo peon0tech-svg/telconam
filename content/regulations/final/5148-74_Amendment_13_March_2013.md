@@ -1,11 +1,7 @@
 
 N$8.00
 
-## GOVERNMENTGAZETTE
-
-## OFTHE
-
-## REPUBLIC OF NAMIBIA
+## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
 WINDHOEK-13March2013
 
@@ -54,7 +50,9 @@ All writtensubmissionsmust bemade eitherphysically or electronically-
 
 - (5) By fax to e-mail to: 088642748.
 
-## L.N.JACOBS CHAIRPERSON COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
+**L.N.JACOBS**  
+CHAIRPERSON  
+COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
 
 ## COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
 
@@ -382,10 +380,9 @@ The Communications Regulatory Authority of Namibia, in terms of regulations 7, 1
 
 The transferofcontroloflicenceis subjecttotheCommunicationsAct,No8of2009 andRegulations RegardingLicence ConditionsforBroadcastingService Licencespublished in Government Gazette 5037,Notice No.309,dated 13 September 2012.
 
-## L.N.JACOBS
-
-## CHAIRPERSON COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
-
+**L.N.JACOBS**  
+CHAIRPERSON  
+COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
 ## COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
 
 No. 71
@@ -394,9 +391,9 @@ No. 71
 
 TheCommunicationsRegulatoryAuthorityofNamibia,interms ofregulation11ofthe"Regulations RegardingLicensingProceduresfor Telecommunications andBroadcastingServiceLicenses and Spectrum Use Licenses",published in Government Gazette No.4785,Notice No.272,dated 29 August 2011, herewith gives notice that the applicant referred to in the table below, submitted an application for a spectrum use license to the Authority:
 
-| Applicant;                                                | incorpo- place of plicants Citizen- ship or Ap- ration;   | Percent- age of Stock ownedby Namibian Namibian Citizens or Namibian citizens or Compa- niescon- trolledby Namibian Citizens;   | Radio Frequen- of frequencies cies or group applied for;                                            | Services being ap- spectrum provided using the intended tobe plied for;   | geographic coverage area (s); Descrip- tionof   | Type of service license;                                                                                                                                                          | Proofof License Applica- tion Fees Paid Up Submit- to Date ted? Yes/No   |
+| Applicant;                                                | incorpo- place of plicants Citizenship or Ap- ration;   | Percent- age of Stock ownedby Namibian Namibian Citizens or Namibian citizens or Compa- niescon- trolledby Namibian Citizens;   | Radio Frequen- of frequencies cies or group applied for;                                            | Services being ap- spectrum provided using the intended tobe plied for;   | geographic coverage area (s); Descrip- tionof   | Type of service license;                                                                                                                                                          | Proofof License Applica- tion Fees Paid Up Submit- to Date ted? Yes/No   |
 |-----------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| Erongo Regional ityDistributor Electric- Company(Pty) Ltd | Namibia                                                   | 100%                                                                                                                            | 7446.500MHz 7414.500MHz 7460.500MHz 24608.500MHz 7628.500MHz 25616.500MHz 24622.500MHz 25630.500MHz | LINKS FIXED                                                               | Erongo anypart Region or thereof.               | PrivateECNS (In terms of Regula- tion5oftheRegula- tionsSetting Out Broadcasting and Telecommunications ServiceLicense Cat- egories,this service maybeprovided without alicense.) | Yes                                                                      |
+| Erongo Regional ityDistributor Electric- Company(Pty) Ltd | Namibia                                                   | 100%                                                                                                                            | 7446.500MHz 7414.500MHz 7460.500MHz 24608.500MHz 7628.500MHz 25616.500MHz 24622.500MHz 25630.500MHz | LINKS FIXED                                                               | Erongo anypart Region or thereof.               | PrivateECNS (In terms of Regula- tion5oftheRegula- tionsSetting Out Broadcasting and Telecommunications ServiceLicense Categories,this service maybeprovided without alicense.) | Yes                                                                      |
 
 Thepublicmay submit commentsinwriting to theAuthoritywithin aperiodof fourteen(14) days fromthedateofpublicationof thisnoticeintheGovernmentGazette.The applicantmaysubmit writtenreplycommentswithinfourteen(14)daysfrom the dateofnotificationof thewrittenpublic comments.
 
@@ -410,10 +407,9 @@ Allwrittensubmissionsmust bemade either physically orelectronically-
 - (4) By facsimile to the following facsimile number:+264 61 222790; or
 - (5) By fax to e-mail to: 088642748.
 
-## L.N.JACOBS
-
-## CHAIRPERSON COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
-
+**L.N.JACOBS**  
+CHAIRPERSON  
+COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
 No.72
 
 ## NOTICEINTERMSOFTHEREGULATIONSREGARDINGLICENSINGPROCEDURES FORTELECOMMUNICATIONSANDBROADCASTINGSERVICELICENCESAND SPECTRUMUSELICENCES
@@ -437,9 +433,9 @@ The Communications RegulatoryAuthority of Namibia,in terms of regulation 11 of t
 | Site Name                                                                                      | endesnes Ar-                            | Gross Herzhog                           | Keetman- doous                          | Luderitz                                | Oshakati                                | Rossing                                 | Aminuis                                                                                                                                                                                                                                                                           |
 | Deserip- Jo uon graphic coverage                                                               | Repub- Namibia thereof                  | Repub- Namibia thereof                  | Repub- Namibia thereof                  | Repub- Namibia thereof                  | Repub- Namibia thereof                  | Repub- Namibia thereof                  | Repub- licof Namibia thereof                                                                                                                                                                                                                                                      |
 | Applica- tionFees Paid Up to Date? Yes/No                                                      |                                         |                                         |                                         |                                         |                                         |                                         | #                                                                                                                                                                                                                                                                                 |
-| intended to be provided using the spectrum being applied for of(type of Service licence)       | Commercial Broadcasting Service Licence | Commercial Broadcasting Service Licence | Commercial Broadcasting Service Licence | Commercial Broadcasting Service Licence | Commercial Broadcasting Service Licence | Commercial Broadcasting Service Licence | cies applied for requireaservice licence. Note, however,that as per section93of the Communica- tions Act,until a date determined by theMinister,chap- ter IV on broad- casting services is not applicable to applicant or to any broadcasting activities carried on by applicant. |
+| intended to be provided using the spectrum being applied for of(type of Service licence)       | Commercial Broadcasting Service Licence | Commercial Broadcasting Service Licence | Commercial Broadcasting Service Licence | Commercial Broadcasting Service Licence | Commercial Broadcasting Service Licence | Commercial Broadcasting Service Licence | cies applied for requireaservice licence. Note, however,that as per section93of the Communica- tions Act,until a date determined by theMinister,chap- ter IV on broadcasting services is not applicable to applicant or to any broadcasting activities carried on by applicant. |
 | Percent- ageof Stock Namibian zensor citizens or Namibian Compa- nies con- trolled by Citizens | 51%                                     | 51%                                     | 51%                                     | 51%                                     | 51%                                     | 51%                                     | 100%                                                                                                                                                                                                                                                                              |
-| Ap- plicants Citizen- shipor placeof incorpo- ration                                           | Namibia                                 | Namibia                                 | Namibia                                 | Namibia                                 | Namibia                                 | Namibia                                 | Namibia                                                                                                                                                                                                                                                                           |
+| Applicants Citizenshipor placeof incorpo- ration                                           | Namibia                                 | Namibia                                 | Namibia                                 | Namibia                                 | Namibia                                 | Namibia                                 | Namibia                                                                                                                                                                                                                                                                           |
 | Applicant                                                                                      | Multi- choice Namibia (Pty) Ltd.        | Multi- choice Namibia (Pty) Ltd.        | Multi- choice Namibia (Pty) Ltd.        | Multi- choice Namibia (Pty) Ltd.        | Multi- choice Namibia (Pty) Ltd.        | Multi- choice Namibia (Pty) Ltd.        | Namibian Broadcast- ration                                                                                                                                                                                                                                                        |
 
 | Hardap    | Kavango   | Karas      | Karas        | Karas        | Karas       | Omaheke   | Caprivi    | Omaheke      | Kavango      | Ohang- wena   |            | Omaheke    | -puozonio jupa   | Omaheke          | Kunene           | Erongo     | -puozono edn!   | Kunene Hardap   | Hardap     |
@@ -540,9 +536,9 @@ The CommunicationsRegulatory Authority,in terms of section37,38and 84readwith se
 ## Amendmentof regulation1 of theRegulations
 
 2. Regulation1 of theRegulations is amended by-
-2. (a) the deletion of the definition of"Broadcasting back-haul system service";
-3. (b) insertion after thedefinitionof-
-4. (i) "Amateur service"ofthefollowingdefinitions:
+- (a) the deletion of the definition of"Broadcasting back-haul system service";
+- (b) insertion after thedefinitionof-
+- (i) "Amateur service"ofthefollowingdefinitions:
 5. "'Citizen Band service' means a private, two-way, shortdistance radio service usedfor thepurposeof speechcommunicationsforpersonal and business operations, which may also be used as a paging system;"; and
 
 Class ComprehensiveMultiplex andSignalDistribution'meansproviding anelectroniccommunicationsnetworkserviceforsignaldistributionas well as operation of multiplexer equipment for the purpose of delivering broadcasting services;"and
@@ -555,12 +551,12 @@ Class ComprehensiveMultiplex andSignalDistribution'meansproviding anelectronicco
 
 1. Regulation4 oftheRegulations is amended by the substitution for sub-regulation (1) of the following sub-regulation:
 2. ""(1) The following are categories of broadcasting service licences -
-3. (a) Commercial;
-4. (b) Community;
-5. (c) Public;
-6. (d) Signal Distribution;
-7. (e) Class comprehensiveMultiplex and Signal Distribution; and
-8. (f) Multiplex."
+- (a) Commercial;
+- (b) Community;
+- (c) Public;
+- (d) Signal Distribution;
+- (e) Class comprehensiveMultiplex and Signal Distribution; and
+- (f) Multiplex."
 
 ## Amendment of Regulation5of theRegulations
 
@@ -627,9 +623,9 @@ The CommunicationsRegulatoryAuthority,in termsof section37,38and84readwithsectio
 ## Amendmentof regulation1 of theRegulations
 
 2. Regulation 1 of the Regulations is amended by -
-2. (a) the deletion of the definition of "Broadcasting back-haul system service";
-3. (b) insertion after thedefinitionof-
-4. (i) "Amateur service"of the following definitions:
+- (a) the deletion of the definition of "Broadcasting back-haul system service";
+- (b) insertion after thedefinitionof-
+- (i) "Amateur service"of the following definitions:
 5. "Citizen Band service'means a private, two-way, shortdistance radio serviceusedforthepurposeofspeechcommunicationsforpersonal and business operations,which may also be used as a paging system;"; and
 
 Class ComprehensiveMultiplex andSignal Distribution'meansproviding an electroniccommunicationsnetwork servicefor signal distribution as well as operation of multiplexer equipment for the purpose of delivering broadcasting services;"and
@@ -642,12 +638,12 @@ Class ComprehensiveMultiplex andSignal Distribution'meansproviding an electronic
 
 1. Regulation 4of theRegulations is amendedby the substitutionfor sub-regulation(1) of the following sub-regulation:
 2. "(1) The following are categories of broadcasting service licences -
-3. (a) Commercial;
-4. (b) Community;
-5. (c) Public;
-6. (d) Signal Distribution;
-7. (e) ClasscomprehensiveMultiplexandSignalDistribution;and
-8. (f) Multiplex."
+- (a) Commercial;
+- (b) Community;
+- (c) Public;
+- (d) Signal Distribution;
+- (e) ClasscomprehensiveMultiplexandSignalDistribution;and
+- (f) Multiplex."
 
 ## Amendment of Regulation5of theRegulations
 

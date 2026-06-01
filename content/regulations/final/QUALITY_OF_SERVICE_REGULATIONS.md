@@ -92,9 +92,9 @@ In these regulations,any word or expression to which a meaning is assigned in th
 - (9) Licensees must retain all quality of service data,including all measurements and related recordsforaminimumperiodof five(5)years,after the end of thereportingperiod,orfora timeperiod asmaybe directed by theAuthority.
 - (01) The Authority shall determine the geographical area and time period for drive testing conductedonbehalf of theAuthority tomeasurequality ofservicestandards.
 - (11) TheAuthority shall measure andensure compliance toqualityof servicestandards using any orallof thefollowingmethods:-
-12. (a) Drive testing by the Authority, and/or an independent party appointed by the Authority;and/or
-13. (C) Any otherreasonablemeans.
-14. (b) Data collection and statistical reports from licensees; and/or
+- (a) Drive testing by the Authority, and/or an independent party appointed by the Authority;and/or
+- (C) Any otherreasonablemeans.
+- (b) Data collection and statistical reports from licensees; and/or
 
 ## 6. Condonation
 
@@ -105,23 +105,23 @@ In these regulations,any word or expression to which a meaning is assigned in th
 ## 7. Failuretosubmitinformation
 
 - (1) IfalicenseefailstosubmitinthemannerandformatprescribedbytheAuthority,assetout in theseregulationsor tosubmit thereportsrequired tobe submittedby theseregulations the Authoritymay:
-2. (a) Issueawrittenrequestforsubmissionofoutstandinginformationwithinaprescribed time;and
-3. (b) Require thelicensee toimplement aremedial planwithin a timeframe agreedwith theAuthorityandagainsubmittheoutstandingand/oradditionalinformationtothe Authority.
+- (a) Issueawrittenrequestforsubmissionofoutstandinginformationwithinaprescribed time;and
+- (b) Require thelicensee toimplement aremedial planwithin a timeframe agreedwith theAuthorityandagainsubmittheoutstandingand/oradditionalinformationtothe Authority.
 - (2) Ifafter the measures setoutin(1)above,thelicensee stillfails submit theinformation requested,theAuthoritywilldealwiththematterintermsofsections114and115oftheAct.
 
 ## 8. Penalties
 
 - (1) Anylicenseewhofailstomaintaintheminimumqualityofservicestandardsset outin these regulationsor tosubmit thereportsrequiredtobesubmittedbytheseregulations,shall be guilty ofcontravening theseregulations.
 - (2) Wherealicenseecontravenes one ormore of theseregulations orquality of servicesstandard contained herein,theAuthority may-
-3. (a) issuetoa licensee awrittenwarning andfinaldatefor submitting outstanding reportswhere thelicenseeisguiltyofnotsubmittingreports asrequiredbythese Regulations; or
-4. (b) requirethelicenseetoimplement aremedial planwithinatimeframeagreedwiththe Authorityandagainsubmitadditionalinformationaboutthequalityoftherelevant service to be compared againstperformance datacollected by the Authority;or
-5. (c) order thelicensee tocompensate subscribers orconsumersforpoor quality of service;or
-6. (d) impose a penalty of not more thanN$500,000.00for-
-7. (i) failurebya licenseetoperformmeasurementsforreportingpurposes as contained in these regulations;
-8. (i) submitting or causing the submission of false ormisleading information to theAuthority;
-9. (ii) each contravention of a qualityof service standard as set out in section2 of AnnexureA hereto;or
-10. (e) impose a penalty not exceeding N$1,000,000.00 for-
-11. (i) eachcontraventionofaqualityofservicestandardassetoutinsections1 and3ofAnnexureAhereto;
+- (a) issuetoa licensee awrittenwarning andfinaldatefor submitting outstanding reportswhere thelicenseeisguiltyofnotsubmittingreports asrequiredbythese Regulations; or
+- (b) requirethelicenseetoimplement aremedial planwithinatimeframeagreedwiththe Authorityandagainsubmitadditionalinformationaboutthequalityoftherelevant service to be compared againstperformance datacollected by the Authority;or
+- (c) order thelicensee tocompensate subscribers orconsumersforpoor quality of service;or
+- (d) impose a penalty of not more thanN$500,000.00for-
+- (i) failurebya licenseetoperformmeasurementsforreportingpurposes as contained in these regulations;
+- (i) submitting or causing the submission of false ormisleading information to theAuthority;
+- (ii) each contravention of a qualityof service standard as set out in section2 of AnnexureA hereto;or
+- (e) impose a penalty not exceeding N$1,000,000.00 for-
+- (i) eachcontraventionofaqualityofservicestandardassetoutinsections1 and3ofAnnexureAhereto;
 
 - (i) eachrepeatedcontraventionofaqualityofservicestandardassetoutin AnnexureAhereto;or
 - (# imposeapenaltynotexceedingN$5,00o,000.00forfailuretoimplement aremedial plan agreedwith theAuthorityforcompliancewithany quality ofservice standard withinsuchtimeframetheAuthoritymaydirect;or
@@ -152,7 +152,7 @@ CHAIRPERSONOFTHEBOARDOFDIRECTORS COMMUNICATIONSREGULATORYAUTHORITYOFNAMIBIA
 | An additional connection provided to a customer who already has an existing service, inluding anyupgrades tipleconnections eachagreeddeliverytmecouts as a sepa- rate service request for measurement purposes Include the following scenarios- A new connection inservice | An additional connection provided to a customer who already has an existing service,including any upgrades tipleconections eachagreeddeliverytmecouts asasepa- Include the following scenarios- Anewconnection in service | The timebywhich valid faults onnetworks are repaired and thepercentage of faultscleared in the time specifiedinany service levelagreement or contractmustbereported sepa- rately                                                             |
 | 95%of service re- quests to becompleted within 5 elapsed days 100% of service re- quests to be completed within7elapsed days                                                                                                                                               | 95%of service re- queststobecompleted within5 elapsed days 100%of service re- queststobecompleted within 7 elapsed days                                                                                                   | 90%of faults to be within24 from 100% of faults to be hoursfrom hours time reported timereported repaired elapsed repaired elapsed                                                                                                           |
 | has been received to the instant a working service ismade available for use The duration (elapsed days)from the instant a valid service request                                                                                                                            | (elapsed from the instant a service request has been received to the in- made availablefor use duration (s.ep valids The                                                                                                  | The time (elapsed hours) by which valid faults on networks are repaired                                                                                                                                                                      |
-| Supply time for initial mo- bile services connection (postpaid/prepaid)                                                                                                                                                                                                    | Supply time for subscrip- tion based television ser- viceconnection                                                                                                                                                       | Fault Repair Time                                                                                                                                                                                                                            |
+| Supply time for initial mo- bile services connection (postpaid/prepaid)                                                                                                                                                                                                    | Supply time for subscrip- tion based television serviceconnection                                                                                                                                                       | Fault Repair Time                                                                                                                                                                                                                            |
 
 | Individual licensees                                                                             | Class Comprehensive licensees                           |
 |--------------------------------------------------------------------------------------------------|---------------------------------------------------------|
@@ -228,7 +228,7 @@ Parameter:
 |                                                                       | Month1   | Month2   | Month3   | Month4   | Month5   | Month6   |
 |-----------------------------------------------------------------------|----------|----------|----------|----------|----------|----------|
 | Percentage of service requests completedwithin5elapseddays            |          |          |          |          |          |          |
-| Remaining percentage of ser- vicerequestscompletedwithin7 elapseddays |          |          |          |          |          |          |
+| Remaining percentage of servicerequestscompletedwithin7 elapseddays |          |          |          |          |          |          |
 | Total percentage of service re- questscompleted                       | 100%     | 100%     | 100%     | 100%     | 100%     | 100%     |
 
 ## 2. Supply time for internet access
@@ -242,7 +242,7 @@ Parameter:
 |                                                                       | Month1   | Month2   | Month3   | Month4   | Month5   | Month6   |
 |-----------------------------------------------------------------------|----------|----------|----------|----------|----------|----------|
 | Percentageofservice requests completedwithin5elapseddays              |          |          |          |          |          |          |
-| Remainingpercentage of ser- vicerequestscompletedwithin7 elapsed days |          |          |          |          |          |          |
+| Remainingpercentage of servicerequestscompletedwithin7 elapsed days |          |          |          |          |          |          |
 | Totalpercentage of service re- questscompleted                        | 100%     | 100%     | 100%     | 100%     | 100%     | 100%     |
 
 ## 3. Supply time for initial mobile service connection (postpaid)
@@ -256,7 +256,7 @@ Parameter:
 |                                                                        | Month1   | Month2   | Month3   | Month4   | Month5   | Month6   |
 |------------------------------------------------------------------------|----------|----------|----------|----------|----------|----------|
 | Percentage of service requests completedwithin5elapseddays             |          |          |          |          |          |          |
-| Remaining percentage of ser- vicerequests completedwithin7 elapseddays |          |          |          |          |          |          |
+| Remaining percentage of servicerequests completedwithin7 elapseddays |          |          |          |          |          |          |
 | Totalpercentage of service re- questscompleted                         | 100%     | 100%     | 100%     | 100%     | 100%     | 100%     |
 
 ## 4. Fault Repair Time

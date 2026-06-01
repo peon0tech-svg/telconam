@@ -15,7 +15,7 @@ const nextConfig = {
   experimental: {
     workerThreads: false,
     cpus: 1,
-    webpackBuildWorker: true,
+    webpackBuildWorker: false,
   },
   webpack: (config) => {
     // Disable JS/CSS minification to dramatically lower memory footprint during build

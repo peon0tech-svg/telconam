@@ -1,11 +1,7 @@
 
 N$11.20
 
-## GOVERNMENT GAZETTE
-
-## OF THE
-
-## REPUBLIC OF NAMIBIA
+## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
 WINDHOEK - 15 February 2016
 
@@ -24,7 +20,7 @@ Page
 | No. 14           | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Commu- nications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agree- ments and Tariffs: MWireless (Pty) Ltd t/a Africa Online                                                                                                       | 10 |
 | No. 15           | Communications Regulatory Authority of Namibia: Notice in terms of section 53(7) of the Commu- nications Act, 2009 read with the Regulations Regarding the Submissions of Interconnection Agree- ments and Tariffs: Paratus Telecommunications (Pty) Ltd                                                                                                         | 12 |
 | No. 16           | Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs: De Beers Marine Namibia                                                                                                                                                                                                                                  | 15 |
-| No. 17           | Communications Regulatory Authority of Namibia: Notice to withdraw Spectrum Use Licence in terms of Regulations 10 and 11 of the Regulations Regarding Licencing Procedures for Telecommu- nications and Broadcasting Service Licences and Spectrum Use Licences: Communications Act, 2007: Namibian Broadcasting Corporation   | 17 |
+| No. 17           | Communications Regulatory Authority of Namibia: Notice to withdraw Spectrum Use Licence in terms of Regulations 10 and 11 of the Regulations Regarding Licencing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences: Communications Act, 2007: Namibian Broadcasting Corporation   | 17 |
 | No. 18           | Communications Regulatory Authority of Namibia: Notice of amendment of applications from: Telecommunications Service Licences of the Regulations Prescribing Forms for Applications: Com- munications Act, 2009                                                                                           | 19 |
 
 No. 19 Communications Regulatory Authority of Namibia: Notice of intention to amend the Regulations Regarding Licensing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences: Communications Act, 2009 
@@ -57,7 +53,9 @@ All written submissions and reply comments must be made either physically or ele
 - (4) by facsimile to the following facsimile number: +264 61 222790.
 - (5) by fax to e-mail to: 0886550852
 
-L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 No. 11
 
@@ -153,7 +151,9 @@ All requirements in terms of section 53 of the Act that deals with the approval 
 
 The Authority herewith approves the proposed tariffs for Salt Essential IT (Pty) Ltd as submitted for implementation effective from 18 December 2015.
 
-L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ---
 
@@ -226,7 +226,9 @@ All requirements in terms of section 53 of the Act that deals with the approval 
 
 The Authority herewith approved the proposed tariffs for broadband wireless network (PURE) tariffs as submitted by Converged Telecommunications Solutions (Pty) Ltd for implementation effective from 15 December 2015.
 
-## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ---
 
@@ -287,7 +289,9 @@ The terms and conditions applicable to the provision of services by Africa Onlin
 
 The Authority herewith approved the proposed tariffs for Nawagate as submitted by Africa Online for implementation effective from 18 December 2015
 
-## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ---
 
@@ -354,7 +358,9 @@ The Authority postponed the date of commencement of the tariff with 22 days in t
 
 The Authority herewith approved the proposed tariffs for Nawaspot as submitted by MWireless (Pty) Ltd t/a AfricaOnline for implementation effective from 18 December 2015.
 
-## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ---
 
@@ -467,20 +473,22 @@ The Communications Regulatory Authority of Namibia, in terms of section 101 of t
 
 The Authority herewith approves the proposed tariffs for new YUR SAT Products as submitted by Paratus Telecommunications (Pty) Ltd for implementation effective from 18 December 2015.
 
-## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ---
 
 Spectrum Use Licence Applications
 
-| Service to be pro- vided using frequency applied for;                                                        | FIXED SERVICES (PTP) F.635                                                                                                                                                                                                                                                                                                                                                                              |
+| Service to be provided using frequency applied for;                                                        | FIXED SERVICES (PTP) F.635                                                                                                                                                                                                                                                                                                                                                                              |
 |--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | License Fees Out- standing;                                                                                  | NO                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Description of geo- graphic coverage area(s);                                                                | Transmission between Shore and Vessels; to be used within the bor- ders of the mining area of Oranjemund                                                                                                                                                                                                                                                                                                |
+| Description of geographic coverage area(s);                                                                | Transmission between Shore and Vessels; to be used within the bor- ders of the mining area of Oranjemund                                                                                                                                                                                                                                                                                                |
 | List of radio frequencies or group of radio frequencies being consid- ered for assignment by the Author- ity | 3804 MHz (TX)/ 3924 MHz (RX) ( 8 MHz Bandwidth ) 3812 MHz (TX)/ 3932 MHz (RX) ( 8 MHz Bandwidth ) 3820 MHz (TX)/ 3940 MHz (RX) ( 8 MHz Bandwidth ) 3828 MHz (TX)/ 3948 MHz (RX) ( 8 MHz Bandwidth ) 3836 MHz (TX)/ 3956 MHz (RX) ( 8 MHz Bandwidth ) 3844 MHz (TX)/ 3964 MHz (RX) ( 8 MHz Bandwidth ) 3852 MHz (TX)/ 3972 MHz (RX) ( 8 MHz Bandwidth ) 3860 MHz (TX)/ 3980 MHz (RX) ( 8 MHz Bandwidth ) |
 | List of radio frequencies or group of radio frequencies applied for;                                         | 3804 MHz (TX)/ 3924 MHz (RX) ( 8 MHz Bandwidth ) 3812 MHz (TX)/ 3932 MHz (RX) ( 8 MHz Bandwidth ) 3820 MHz (TX)/ 3940 MHz (RX) ( 8 MHz Bandwidth ) 3828 MHz (TX)/ 3948 MHz (RX) ( 8 MHz Bandwidth ) 3836 MHz (TX)/ 3956 MHz (RX) ( 8 MHz Bandwidth ) 3844 MHz (TX)/ 3964 MHz (RX) ( 8 MHz Bandwidth ) 3852 MHz (TX)/ 3972 MHz (RX) ( 8 MHz Bandwidth ) 3860 MHz (TX)/ 3980 MHz (RX)                     |
-| Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namib- ian Citizens;      | 100%                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Applicant's citizenship or place of incorpora- tion                                                          | Namibia                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens;      | 100%                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Applicant's citizenship or place of incorporation                                                          | Namibia                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Applicant's Name;                                                                                            | De Beers Ma- rine Namibia                                                                                                                                                                                                                                                                                                                                                                               |
 
 The public may submit comments in writing to the Authority within a period of fourteen (14) days from the date of publication of this notice in the Gazette .
@@ -497,7 +505,9 @@ All written submissions and reply comments must be made either physically or ele
 - (4) By facsimile to the following facsimile number: +264 61 222790; or
 - (5) By fax to e-mail to: 088642748.
 
-## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ---
 
@@ -509,7 +519,7 @@ The Communications Regulatory Authority of Namibia, in terms of regulations 10(2
 
 | Date on which licensee intends to permanently discontinue providing service;                                     | 19 February 2016, being 60 days from 19 December 2015(Date on which the applications was submitted as contemplated in regulation 10(3)( e ) 19 February 2016, being 60 days from 19 December 2014(Date on which the applications was submitted as contemplated in regulation 10(3)( e ) 8 February 2016, being 60 days from 8 December 2015(Date on which the applications was submitted as contemplated in regulation 10(3)( e ) 28 February 2016 as stated in application for with- drawal   | 28 February 2016 as stated in application for with- drawal 3 April 2016 as stated in application for withdrawal 3 April 2016 as stated in application for withdrawal 3 April 2016 as stated in application for withdrawal 28 August 2016 as stated in application for with- drawal 1 May 2016 as stated in application for withdrawal   |
 |------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Proof of Li- cence Fees Paid Up to Date;                                                                         | Yes Yes Yes Yes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Yes Yes Yes Yes Yes Yes                                                                                                                                                                                                                                                                                                                 |
+| Proof of Licence Fees Paid Up to Date;                                                                         | Yes Yes Yes Yes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Yes Yes Yes Yes Yes Yes                                                                                                                                                                                                                                                                                                                 |
 | Concise Statement of the reasons for proposed withdraw- al;                                                      | The frequen- cies were utilised for the provi- sion of analogue television services. Due to the migration to digital terrestrial television the NBC no longer requires the use of these fre- quencies                                                                                                                                                                                                                                                                                          | The frequen- cies were utilised for the provi- sion of analogue television services. Due to the migration to digital terrestrial television the NBC no longer requires the use of these fre- quencies                                                                                                                                   |
 | Radio Frequen- cies or group of frequen- cies with- drawn;                                                       | 194 MHz 226 MHz 178 MHz 218 MHz                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 186 MHz 234 MHz 730 MHz 786 MHz 194 MHz 186 MHz                                                                                                                                                                                                                                                                                         |
 | City/Town                                                                                                        | Gross Hertzog Windhoek Hohe Gobabis NBC Tower Signalberg NBC Tower Tsumkwe NBC Tower Okongo NBC tower Nkurunkuru                                                                                                                                                                                                                                                                                                                                                                               | NBC Tower Shamvura NBC Tower Ur NBC Tower Maltahohe NBC Tower                                                                                                                                                                                                                                                                           |
@@ -518,7 +528,7 @@ The Communications Regulatory Authority of Namibia, in terms of regulations 10(2
 | of ser- licence;                                                                                                 | Spectrum Licence isssued on Septem- 2012, published Govern- Gazette Notice Please that only the frequencies in this are with- drawn                                                                                                                                                                                                                                                                                                                                                            | Karas Hardap                                                                                                                                                                                                                                                                                                                            |
 | Type vice                                                                                                        | Citizens; State Owned Enterprise Use as 13 ber in ment 5037, 306. note listed notice being                                                                                                                                                                                                                                                                                                                                                                                                     | Citizens; State Owned Enterprise Use as 13 ber in ment 5037, 306. note listed notice being                                                                                                                                                                                                                                              |
 | Percentage of Stock owned by Namibian Citizens or Namibian citizens or Namibian Companies controlled by Namibian | Established in terms of section 2 of the Namibian Broadcast- ing Act (Act No. 9 of 1991)                                                                                                                                                                                                                                                                                                                                                                                                       | Established in terms of section 2 of the Namibian Broadcast- ing Act (Act No. 9 of 1991)                                                                                                                                                                                                                                                |
-| Licensee's Citizenship or place of incorpora- tion;                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                         |
+| Licensee's Citizenship or place of incorporation;                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                         |
 | Licensee                                                                                                         | Namibian Broadcasting Corporation                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Namibian Broadcasting Corporation                                                                                                                                                                                                                                                                                                       |
 
 The public may make oral submissions on the proposed regulations to the Authority, at a time, date and place notified by the Authority.
@@ -538,7 +548,9 @@ All written submissions must be send or submitted in any of the following manner
 - d) by facsimile to the following facsimile number: +264 61 222790; and
 - e) by fax-to-email to: 0886550852.
 
-## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ---
 
@@ -548,7 +560,9 @@ NOTICE OF AMENDMENT OF APPLICATION FORM: TELECOMMUNICATIONS SERVICE LICENCE OF T
 
 The Communications Regulatory Authority of Namibia, in terms of section 129 of the Communications Act (No.8 of 2009) and the 'Regulations Regarding Rule Making Procedures' as published in Government Gazette No. 4630, General Notice No. 334 dated 17 December 2010, hereby publishes the amendment of 'Regulations Prescribing Forms for applications' in respect of Form CRAN 1 (Application Form: Telecommunications Service Licence) as published in Government Gazette No. 5269 General Notice No. 328, effective from the date of publication in the Gazette .
 
-## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ## FORM CRAN 1
 
@@ -662,7 +676,9 @@ All written submissions must be send or submitted in any of the following manner
 - d) by facsimile to the following facsimile number: +264 61 222790; and
 - e) by fax-to-email to: 0886550852.
 
-## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ## SCHEDULE 1
 
@@ -675,14 +691,14 @@ The Communications Regulatory Authority of Namibia, in terms of section 40 read 
 2. The new regulation 4 to read as follows-
 - (1) A person intending to provide a class network facilities services must submit, in writing to the Authority, an application for a class network facilities service licence in the form made available by the Authority as contained in Annexure A to these regulations.
 - (2) The application must-
-4. (a) set out the full and official name of the person intending to provide a class network facilities service (applicant), and if a juristic person, the registration number of that person;
-5. (b) Set out the name of the contact person (if different from the applicant) and the following contact details-
-6. (i) physical address;
-7. (ii) postal address;
-8. (iii) telephone number(s);
-9. (iv) facsimile number (s); and
-10. (v) electronic mail address(es);
-11. (c) set out full details of all ownership interests in the applicant, including the identity and nationality of ownership interests and if the holders of ownership interests are juristic persons, full details of the board of directors or other governing body and of all their ownership interests;
+- (a) set out the full and official name of the person intending to provide a class network facilities service (applicant), and if a juristic person, the registration number of that person;
+- (b) Set out the name of the contact person (if different from the applicant) and the following contact details-
+- (i) physical address;
+- (ii) postal address;
+- (iii) telephone number(s);
+- (iv) facsimile number (s); and
+- (v) electronic mail address(es);
+- (c) set out full details of all ownership interests in the applicant, including the identity and nationality of ownership interests and if the holders of ownership interests are juristic persons, full details of the board of directors or other governing body and of all their ownership interests;
 
 - (d) set out the full details of foreign ownership interests in the applicant;
 - (e) set out a complete, accurate and concise statement of the network facilities to be provided, including a description and diagram of any network to be constructed, operated or used;
@@ -733,10 +749,8 @@ Electronic mail address(es)
 
 Provide full details regarding foreign ownership interest in the licence, in any.
 
-## E. BOARD OF DIRECTORS
-
-If the applicant is a juristic person(s), set out the full names, nationalities and identity numbers of the members of the Board of Directors or other governing body.
-
+**E. BOARD OF DIRECTORS**  
+If the applicant is a juristic person(s), set out the full names, nationalities and identity numbers of the members of the Board of Directors or other governing body
 | Director Name   | Nationality   | Identity Number   |
 |-----------------|---------------|-------------------|
 

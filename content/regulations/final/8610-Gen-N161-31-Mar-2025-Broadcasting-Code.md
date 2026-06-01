@@ -1,10 +1,6 @@
 
 
-## GOVERNMENT GAZETTE
-
-OF THE
-
-## REPUBLIC OF NAMIBIA
+## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
 | N$9.60                                                    | WINDHOEK - 31 March 2025                                                                                          | No. 8610                                                  |
 |-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
@@ -14,7 +10,8 @@ OF THE
 | No. 161                                                   | No. 161                                                                                                           | 2025                                                      |
 | AMENDMENTTOTHE BROADCASTING CODE: COMMUNICATIONSACT, 2009 | AMENDMENTTOTHE BROADCASTING CODE: COMMUNICATIONSACT, 2009                                                         | AMENDMENTTOTHE BROADCASTING CODE: COMMUNICATIONSACT, 2009 |
 
-T. MUFETI CHAIRPERSON OF THE BOARD
+**T. MUFETI**  
+CHAIRPERSON OF THE BOARD
 
 COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
@@ -76,21 +73,21 @@ COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 - (2) Subject to subrule (3), a licensee must report to the Authority all interruptions or degradations affecting its services in the form set out in the Annexure.
 - (3) The report referred to in subrule (2) must be made in the case of -
-3. (a) scheduled maintenance, at least 48 hours before the outage;
-4. (b) unplanned service interruptions or degradations lasting longer than three hours, within 12 hours after such interruption or degradation: Provided that in the case of a -
-5. (i) level one service interruption, the licensee must make such report within one hour;
-6. (ii) level two service interruption, the licensee must make such report within six hours; or
-7. (iii) level three service interruption, the licensee must make such report within 12 hours.
+- (a) scheduled maintenance, at least 48 hours before the outage;
+- (b) unplanned service interruptions or degradations lasting longer than three hours, within 12 hours after such interruption or degradation: Provided that in the case of a -
+- (i) level one service interruption, the licensee must make such report within one hour;
+- (ii) level two service interruption, the licensee must make such report within six hours; or
+- (iii) level three service interruption, the licensee must make such report within 12 hours.
 - (4) For purposes of subrule (3) -
-9. (a) 'level one service interruption' means a service interruption that affects more than 75% of a licensee's services;
-10. (b) 'level two service interruption' means a service interruption that affects between 50% and 75% of a licensee's services; and
-11. (c) 'level three service interruption' means a service interruption that affects less than 50% of a licensee's services.
+- (a) 'level one service interruption' means a service interruption that affects more than 75% of a licensee's services;
+- (b) 'level two service interruption' means a service interruption that affects between 50% and 75% of a licensee's services; and
+- (c) 'level three service interruption' means a service interruption that affects less than 50% of a licensee's services.
 - (5) A licensee must give its customers at least two days' notice in advance of any planned service interruption or degradation, by publishing a notice by text message, email, other online application or print media.
 - (6) Where an unplanned service interruption or degradation occurs which may extend beyond 12 hours, the affected broadcasting licensee must notify -
-14. (a) the Authority within 12 hours at the email address: QOS@cran.na thereof;
-15. (b) its consumers via social media platforms, short message service (SMS), local radio stations, television or other appropriate means.
+- (a) the Authority within 12 hours at the email address: QOS@cran.na thereof;
+- (b) its consumers via social media platforms, short message service (SMS), local radio stations, television or other appropriate means.
 - (7) The notification referred to in subrule (6) must include the following information:
-17. (a) The services affected by the service interruption or degradation;
+- (a) The services affected by the service interruption or degradation;
 
 - (b) the expected duration of the service interruption or degradation;
 - (c) the geographic areas affected;
@@ -180,17 +177,17 @@ COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 - 13J. (1) The Authority may conduct audits and may for that purpose contract a third party to assess a broadcasting licensee's compliance with the Broadcasting Code.
 
 - (2) In conducting an audit, the Authority may perform validity controls in respect of a broadcasting licensee -
-2. (a) to verify the accuracy and sufficiency of such licensee's quality-of-service results;
-3. (b) to verify the internal procedures and methodologies used by that licensee to collect quality-of-service measurements, including interviews with its staff members to verify that its internal procedures have been correctly followed; or
-4. (c) by launching queries on that licensee's system to obtain relevant raw data.
+- (a) to verify the accuracy and sufficiency of such licensee's quality-of-service results;
+- (b) to verify the internal procedures and methodologies used by that licensee to collect quality-of-service measurements, including interviews with its staff members to verify that its internal procedures have been correctly followed; or
+- (c) by launching queries on that licensee's system to obtain relevant raw data.
 - (3) The purpose of an audit conducted under this rule is to -
-6. (a) verify if the broadcasting licensee has accurately and sufficiently measured and reported quality-of-service results; and
-7. (b) determine if any remediation or other action is necessary under rule 13K or if an investigation will be required under rule 13I(4).
+- (a) verify if the broadcasting licensee has accurately and sufficiently measured and reported quality-of-service results; and
+- (b) determine if any remediation or other action is necessary under rule 13K or if an investigation will be required under rule 13I(4).
 - (4) The Authority must provide to a broadcasting licensee, who has been subjected to an audit with an audit report containing -
-9. (a) the results of the audit;
-10. (b) the Authority's determinations and conclusions from the audit;
-11. (c) directions to the broadcasting licensee to furnish the Authority with written explanations regarding any issue identified during the audit, including reasons for any failure to accurately or sufficiently measure and report quality-of-service results;
-12. (d) any remediation that the licensee concerned is required to carry out.
+- (a) the results of the audit;
+- (b) the Authority's determinations and conclusions from the audit;
+- (c) directions to the broadcasting licensee to furnish the Authority with written explanations regarding any issue identified during the audit, including reasons for any failure to accurately or sufficiently measure and report quality-of-service results;
+- (d) any remediation that the licensee concerned is required to carry out.
 - (5) A broadcasting licensee must respond to any determination, conclusion or request for explanation in an audit report within 30 days of receipt thereof, failing which any determinations or conclusions contained in the audit report must be deemed to be correct.
 - (6) If an audit report requires a broadcasting licensee to carry out any remediation or other action under rule 13K, it will constitute a notice to the licensee under that rule.
 

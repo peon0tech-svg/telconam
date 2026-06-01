@@ -1,10 +1,6 @@
 
 
-## GOVERNMENT GAZETTE
-
-## OF THE
-
-## REPUBLIC OF NAMIBIA
+## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
 N$17.80
 
@@ -254,8 +250,8 @@ Equipment relating to interception
 3. 'Authority' means the Communications Regulatory Authority of Namibia established by section 4;
 4. 'Board' means the Board of the Authority referred to in section 8;
 5. 'broadcast' means to disseminate electronic communications -
-6. (a) by radio waves if that communications are intended to be received by the public or the subscribers to a particular service, directly or by the intermediary of relay stations; or
-7. (b) by any other means if that communications are intended to be received by the public or the subscribers to a particular service and the Authority has after following a rule-making procedure, by regulation prescribed that the specified services are broadcasting services;
+- (a) by radio waves if that communications are intended to be received by the public or the subscribers to a particular service, directly or by the intermediary of relay stations; or
+- (b) by any other means if that communications are intended to be received by the public or the subscribers to a particular service and the Authority has after following a rule-making procedure, by regulation prescribed that the specified services are broadcasting services;
 8. 'broadcasting code' means the broadcasting code made in terms of section 89;
 9. 'broadcasting licence' means a broadcasting licence issued in terms of section 85;
 10. 'Chairperson' means the Chairperson of the Board appointed under section 13;
@@ -318,10 +314,10 @@ Equipment relating to interception
 'user' means any natural or juristic person, including customers, who uses or requests a telecommunications service, whether or not that person pays for such service.
 
 - (2) For the purposes of this Act, one person is an affiliate of another person -
-2. (a) if one of them directly or indirectly controls the other one of them;
-3. (b) if one of them holds directly or indirectly, an interest of 10% or more in the other of them;
-4. (c) if they are both controlled directly or indirectly by the same person; or
-5. (d) if any person holds directly or indirectly an interest of more than 10% in both of them.
+- (a) if one of them directly or indirectly controls the other one of them;
+- (b) if one of them holds directly or indirectly, an interest of 10% or more in the other of them;
+- (c) if they are both controlled directly or indirectly by the same person; or
+- (d) if any person holds directly or indirectly an interest of more than 10% in both of them.
 
 (3) For the purposes of this Act, one person is deemed to control another person if the former has the power to direct or cause the direction of the management of the latter person, whether through ownership of shares, voting, securities, partnership or other ownership interest, whether by contract or otherwise and whether directly or indirectly.
 
@@ -366,9 +362,9 @@ Public Service to perform such duties in that unit as he or she thinks fit.
 ## Powers of Authority
 
 6. In order to achieve its objects the Authority has, in addition to the powers granted to it elsewhere in this Act, the power to -
-2. (a) own movable and immovable property and to deal with such property in the manner that it thinks fit: Provided that the Authority may only acquire, alienate or mortgage immovable property with the approval of the Minister;
-3. (b) conclude any contract;
-4. (c) institute and defend legal proceedings in its own name.
+- (a) own movable and immovable property and to deal with such property in the manner that it thinks fit: Provided that the Authority may only acquire, alienate or mortgage immovable property with the approval of the Minister;
+- (b) conclude any contract;
+- (c) institute and defend legal proceedings in its own name.
 
 ## Minister may issue policy guidelines to Authority
 
@@ -389,14 +385,14 @@ Public Service to perform such duties in that unit as he or she thinks fit.
 ## Disqualification for appointment as member
 
 10. A person is not eligible for appointment as a member of the Board, if he or she -
-2. (a) is not a Namibian citizen and not lawfully admitted to Namibia for permanent residence;
-3. (b) is not resident in Namibia;
-4. (c) is a member of Parliament, a regional council or a local authority;
-5. (d) manages, is employed by or has any financial interest in any provider of telecommunications services or any business having a financial interest in any product or industry that is or may be regulated by the Authority;
-6. (e) has been convicted of an offence, other than a political offence committed before the date of Independence of Namibia, in any country and sentenced to a term of imprisonment without the option of a fine;
-7. (f) has any other financial or other interest likely to prejudicially affect the performance of his or her duties as member of the Board;
-8. (g) has been declared as mentally ill under any law relating to mental health; or
-9. (h) is an unrehabilitated insolvent.
+- (a) is not a Namibian citizen and not lawfully admitted to Namibia for permanent residence;
+- (b) is not resident in Namibia;
+- (c) is a member of Parliament, a regional council or a local authority;
+- (d) manages, is employed by or has any financial interest in any provider of telecommunications services or any business having a financial interest in any product or industry that is or may be regulated by the Authority;
+- (e) has been convicted of an offence, other than a political offence committed before the date of Independence of Namibia, in any country and sentenced to a term of imprisonment without the option of a fine;
+- (f) has any other financial or other interest likely to prejudicially affect the performance of his or her duties as member of the Board;
+- (g) has been declared as mentally ill under any law relating to mental health; or
+- (h) is an unrehabilitated insolvent.
 
 ## Term of office of member
 
@@ -449,8 +445,8 @@ Public Service to perform such duties in that unit as he or she thinks fit.
 - (4) The chairperson must cause reasonable notice of every meeting of the Board to be given to the members.
 - (5) The decision of a majority of the members present and voting at a meeting of the Board constitutes a decision of the Board, and in the event of an equality of votes the person presiding at such meeting has a casting vote in addition to his or her deliberative vote.
 - (6) A decision of the Board or an act performed under the authority of the Board is not invalid only by reason of -
-7. (a) a vacancy on the Board; or
-8. (b) the fact that a person not entitled to sit as a member of the Board was in attendance when the decision was taken or act authorised,
+- (a) a vacancy on the Board; or
+- (b) the fact that a person not entitled to sit as a member of the Board was in attendance when the decision was taken or act authorised,
 
 if the decision was taken or act authorised by a majority of the members who were present and entitled to vote at such meeting.
 
@@ -465,8 +461,8 @@ if the decision was taken or act authorised by a majority of the members who wer
 ## Committees of the Board
 
 16. (1) The Board may from time to time establish a committee to -
-2. (a) advise the Board in the exercise of its powers and performance of its duties;
-3. (b) perform any function that the Board may delegate to such committee.
+- (a) advise the Board in the exercise of its powers and performance of its duties;
+- (b) perform any function that the Board may delegate to such committee.
 - (2) A committee established under subsection (1) must consist of at least one member and such other person or persons as the Board may determine, and such committee may, with the approval of the Board, co-opt persons of special expertise to advise it in the performance of its functions, but such co-opted person is not entitled to vote at any such meeting.
 - (3) The Board must designate a member as chairperson of each committee.
 
@@ -479,13 +475,13 @@ if the decision was taken or act authorised by a majority of the members who wer
 ## Delegation of powers, and assignment of duties and functions
 
 18. (1) The Board may delegate any power, or assign any duty or function conferred or assigned to it by or under this Act, except a power to make regulations, issue an individual telecommunications service licence or a broadcasting licence and to reconsider a decision of the Authority as contemplated in section 31, to -
-2. (a) a member of the Board;
-3. (b) a committee of the Board; or
-4. (c) a staff member or consultant of the Authority.
+- (a) a member of the Board;
+- (b) a committee of the Board; or
+- (c) a staff member or consultant of the Authority.
 - (2) A power, duty or function delegated under subsection (1) must be exercised or performed subject to the direction of the Board and the Board is not divested of such delegated power or function, and may -
-6. (a) issue such guidelines or instructions or may place such limitations relating to the exercise of the power function or duty as may be necessary;
-7. (b) may at any time withdraw or amend such delegation;
-8. (c) authorise or issue instructions relating to, the further delegation of such power, function or duty.
+- (a) issue such guidelines or instructions or may place such limitations relating to the exercise of the power function or duty as may be necessary;
+- (b) may at any time withdraw or amend such delegation;
+- (c) authorise or issue instructions relating to, the further delegation of such power, function or duty.
 - (3) The Board may instruct any member, committee or staff member to determine any question, to investigate any matter, to conduct any hearing or to perform any function relating to a power, duty or function whether such power duty or function may be delegated or assigned in terms of subsection (1) or not.
 - (4) When the Board acted under subsection (3), the member, committee or staff member concerned must prepare a report which must contain all relevant information relating to the instruction referred to in subsection (3).
 
@@ -524,15 +520,15 @@ A staff member who leaves the employment of the Authority may not represent any 
 ## Funds of Authority
 
 22. (1) Subject to subsection (2) the funds of the Authority consist of -
-2. (a) an initial amount appropriated by Parliament for the benefit of the Authority;
-3. (b) fees received by the Authority in relation to the grant, renewal or transfer of any licence or authorisation in terms of this Act or any other law;
-4. (c) any fees received by the Authority in relation to the regulation and control of the radio wave spectrum;
-5. (d) any other fees or levies prescribed under this Act or any other law for the benefit of the Authority;
-6. (e) any revenue received for services provided in the course of its activities;
-7. (f) fines and other monetary sanctions imposed by the Authority in accordance with the provisions of this Act or any other law;
-8. (g) proceeds from auctions of radio frequencies;
-9. (h) interest derived from the investment of moneys standing to the credit of the Authority; and
-10. (i) moneys accruing to the Authority from any other source, including donations or grants made for the benefit of the Authority.
+- (a) an initial amount appropriated by Parliament for the benefit of the Authority;
+- (b) fees received by the Authority in relation to the grant, renewal or transfer of any licence or authorisation in terms of this Act or any other law;
+- (c) any fees received by the Authority in relation to the regulation and control of the radio wave spectrum;
+- (d) any other fees or levies prescribed under this Act or any other law for the benefit of the Authority;
+- (e) any revenue received for services provided in the course of its activities;
+- (f) fines and other monetary sanctions imposed by the Authority in accordance with the provisions of this Act or any other law;
+- (g) proceeds from auctions of radio frequencies;
+- (h) interest derived from the investment of moneys standing to the credit of the Authority; and
+- (i) moneys accruing to the Authority from any other source, including donations or grants made for the benefit of the Authority.
 - (2) The moneys paid to the Authority pursuant to a universal service levy imposed under section 56(2) and any interest derived from the investment of such moneys do not form part of the funds of the Authority.
 - (3) The Board must adopt such rules and procedures relating to the accounting for the funds of the Authority and the Universal Service Fund as may be necessary to ensure proper administration of and accounting for those funds.
 - (4) The rules and procedures adopted under subsection (3) must be in accordance with internationally accepted accounting practice.
@@ -546,7 +542,7 @@ this Act with any banking institution or building society registered in terms of
 
 23. (1) The Authority may by regulation after having followed a rule-making procedure, impose a regulatory levy upon providers of communications services in order to defray its expenses.
 - (2) Regulations made in terms of subsection (1) may impose the levy in one or more of the following forms:
-3. (a) A percentage of the income of providers of the services concerned (whether such income is derived from the whole business or a prescribed part of such business) specified in the regulations concerned;
+- (a) A percentage of the income of providers of the services concerned (whether such income is derived from the whole business or a prescribed part of such business) specified in the regulations concerned;
 
 (b) as a percentage of the profit of the provider concerned (whether in respect of the whole business or in respect of a prescribed portion of such business), calculated in the manner prescribed in the regulations concerned;
 
@@ -576,10 +572,10 @@ this Act with any banking institution or building society registered in terms of
 
 26. (1) As soon as possible after the end of each financial year the Chief executive officer must produce an annual report of the Authority for the preceding financial year.
 - (2) The report must contain -
-3. (a) a full description of the actions taken in the previous financial year in order to achieve the objects of this Act set out in section 2;
-4. (b) recommendations for legislative and regulatory changes that are appropriate to address the condition of the development of telecommunications and the development of competition in the sector or otherwise further the purposes of this Act;
-5. (c) a balance sheet, an income statement and a cash-flow statement which is a true and correct reflection of the state of affairs of the Authority as at the end of that financial year; and
-6. (d) a report by the auditor who audited the accounts of the Authority stating whether the Authority's report fairly represents the financial position and results obtained by the Authority in accordance with generally accepted accounting practice.
+- (a) a full description of the actions taken in the previous financial year in order to achieve the objects of this Act set out in section 2;
+- (b) recommendations for legislative and regulatory changes that are appropriate to address the condition of the development of telecommunications and the development of competition in the sector or otherwise further the purposes of this Act;
+- (c) a balance sheet, an income statement and a cash-flow statement which is a true and correct reflection of the state of affairs of the Authority as at the end of that financial year; and
+- (d) a report by the auditor who audited the accounts of the Authority stating whether the Authority's report fairly represents the financial position and results obtained by the Authority in accordance with generally accepted accounting practice.
 - (3) The annual report must be submitted to the Board, which may make such amendments to the report as it thinks fit.
 - (4) The Board must approve the annual report within six months from the end of the financial year to which the report relates.
 - (5) After the annual report has been approved by the Board, it must be submitted by the Chief executive officer to the Minister.
@@ -606,15 +602,15 @@ this Act with any banking institution or building society registered in terms of
 
 - (2) If the Authority has reason to believe that information designated in terms of subsection (1) is not confidential as contemplated in that subsection, it must inform the person who submitted that information of the reasons for its belief.
 - (3) A person who is informed as contemplated in subsection (2), may -
-3. (a) withdraw the information;
-4. (b) consent that the information must not be regarded as confidential;
-5. (c) request that the Authority conducts a hearing that is closed to the
+- (a) withdraw the information;
+- (b) consent that the information must not be regarded as confidential;
+- (c) request that the Authority conducts a hearing that is closed to the
 6. public, to determine whether the information is confidential.
 - (4) In a hearing referred to in subsection (3)(c), the person who claims that the information is confidential has the burden of proving that the information is confidential.
 - (5) If the Authority finds after a hearing referred to in subsection (3)(c) that the information concerned is not confidential, that information may not be regarded as confidential and must be dealt with as provided in section 27, unless the person who submitted that information withdraws it.
 - (6) Information withdrawn as contemplated in subsection (3)(a) or subsection (5) -
-10. (a) may not be revealed under section 27;
-11. (b) must be disregarded in the consideration of any matter considered by the Authority.
+- (a) may not be revealed under section 27;
+- (b) must be disregarded in the consideration of any matter considered by the Authority.
 - (7) Any person who discloses -
 
 (a) any information designated as confidential as contemplated in subsection (1) and in respect of which the person who submitted the information was not informed as contemplated in subsection (2);
@@ -712,11 +708,11 @@ is guilty of an offence and, on conviction, liable to a fine not exceeding N$500
 - (3) A licence confers on the holder the privileges and subjects him or her to the obligations provided for in this Act or specified in the licence.
 - (4) Subsection (1) and (2) does not apply to network infrastructure established by the government in the interest of national defence and public security.
 - (5) The Authority may make regulations -
-6. (a) prescribing the classes of telecommunications services that may be provided without a licence;
-7. (b) prescribing the classes of electronic telecommunications network which may be constructed, operated or used without a licence;
-8. (c) prescribing any matter relating to such services or networks that may be imposed as the condition of a licence under this Act;
-9. (d) requiring the registration of any class of such providers or networks or the provision of information to the Authority relating thereto;
-10. (e) prescribing any technical or other requirements relating to such services or networks that will promote the objects of this Act.
+- (a) prescribing the classes of telecommunications services that may be provided without a licence;
+- (b) prescribing the classes of electronic telecommunications network which may be constructed, operated or used without a licence;
+- (c) prescribing any matter relating to such services or networks that may be imposed as the condition of a licence under this Act;
+- (d) requiring the registration of any class of such providers or networks or the provision of information to the Authority relating thereto;
+- (e) prescribing any technical or other requirements relating to such services or networks that will promote the objects of this Act.
 
 ## Telecommunications licences
 
@@ -807,8 +803,8 @@ The Authority may issue a licence for a specified geographic area, which area mu
 - (2) On receipt of the tenders to provide the specified services, the Authority may award such individual licences to any of the persons who submitted tenders to it as in its opinion will promote the objects of this Act or it may decide to grant no licence.
 - (3) The Authority is not compelled to accept the highest tender or any tender that complies with the conditions specified in the notice inviting tenders.
 - (4) If -
-4. (a) scarcity of radio wave frequencies or other resources makes it desirable in the opinion of the Authority;
-5. (b) the Authority has with the approval of the Minister decided,
+- (a) scarcity of radio wave frequencies or other resources makes it desirable in the opinion of the Authority;
+- (b) the Authority has with the approval of the Minister decided,
 
 that only a specified number of persons must be licensed to provide the services concerned it may by notice in the Gazette institute a system of competitive bidding that is structured in the manner specified in that notice.
 
@@ -855,12 +851,12 @@ it must by notice in the Gazette indicate the reasons for its decision.
 - (4) The Authority must establish procedures for measuring, reporting and monitoring compliance with network and service expansion targets and quality of service standards.
 - (5) If Telecom fails to comply substantially with the mandatory network and service expansion targets or the quality of service standards contained in its licence, the Authority may impose such penalties as provided by section 115(4) of this Act.
 - (6) The Authority may include conditions in the licence requiring Telecom to provide the following services to existing and new customers for the duration of the licence:
-6. (a) Domestic private line service;
-7. (b) international private line service;
-8. (c) public call offices and public pay-telephones;
-9. (d) emergency call services;
-10. (e) dial-up and printed directory information services; and
-11. (f) such other telecommunications services as the Authority may find to be in the public interest.
+- (a) Domestic private line service;
+- (b) international private line service;
+- (c) public call offices and public pay-telephones;
+- (d) emergency call services;
+- (e) dial-up and printed directory information services; and
+- (f) such other telecommunications services as the Authority may find to be in the public interest.
 
 (7) When acting in terms of subsection (6), the Authority must consider all relevant matters relating to the market for telecommunications services and the development of technology in order to determine whether the services are still necessary and appropriate.
 
@@ -963,11 +959,11 @@ such impairment.
 55. (1) The Authority may require the filing of annual or occasional reports from all or any class of licensees.
 
 - (2) The Authority may require that such reports include -
-2. (a) the amount of capital stock issued, the amount and privileges of each class of stock, the amounts paid therefor and the manner of payment for the same, the dividends paid and any surplus capital;
-3. (b) the debts of the company and the interest paid thereon;
-4. (c) the names and addresses of all persons who owns at least one percent of such stock;
-5. (d) the names and addresses of the directors and officers, and the compensation paid to each;
-6. (e) the earnings and expenses from all sources, and a complete exhibit of the financial operations of the company each year.
+- (a) the amount of capital stock issued, the amount and privileges of each class of stock, the amounts paid therefor and the manner of payment for the same, the dividends paid and any surplus capital;
+- (b) the debts of the company and the interest paid thereon;
+- (c) the names and addresses of all persons who owns at least one percent of such stock;
+- (d) the names and addresses of the directors and officers, and the compensation paid to each;
+- (e) the earnings and expenses from all sources, and a complete exhibit of the financial operations of the company each year.
 
 (3) The books of accounts, accounting records and financial statements provided to the Authority must be audited annually by a person duly registered as an accountant and auditor under the Public Accountants and Auditors Act, 1951 (Act No. 51 of 1951).
 
@@ -976,7 +972,7 @@ such impairment.
 ## Universal Service Fund
 
 56. (1) There is hereby established a fund to be known as the 'Universal Service Fund'. (2) The Authority may by regulation, after having followed a rule-making procedure, impose a universal service levy to be paid into the Universal Service Fund. (3) The provisions of section 23(2) and 23(3) apply with the necessary changes required by the context to the universal service levy. (4) The money in the Universal Service Fund may only be utilised (a) in order to defray the expenses directly relating to the administration, control and accounting for the Universal Service Fund; for the purposes of paying subsidies to licensees to subsidise the provision of services or the provision of infrastructure for the purpose
-2. (b) of providing universal service.
+- (b) of providing universal service.
 
 ## Provision of universal service
 
@@ -995,12 +991,12 @@ such impairment.
 ## Universal service report
 
 58. (1) The Chief executive officer must in respect of each calendar year after the commencement of this Act, prepare a universal service report in which must be indicated in respect of the year concerned -
-2. (a) to which portions of the territory of Namibia and to which communities in Namibia universal service is not being provided;
-3. (b) how much money stands to the credit of the universal service fund and how much money is expected to be paid into the universal service fund;
-4. (c) how the Authority intends to spend the money available in the Universal Service Fund;
-5. (d) what steps the Authority intends to take in order to promote the availability of universal service;
-6. (e) what steps have been taken in the previous year in order to promote universal service;
-7. (f) any other matter that the Authority regards as relevant to the provision of universal service.
+- (a) to which portions of the territory of Namibia and to which communities in Namibia universal service is not being provided;
+- (b) how much money stands to the credit of the universal service fund and how much money is expected to be paid into the universal service fund;
+- (c) how the Authority intends to spend the money available in the Universal Service Fund;
+- (d) what steps the Authority intends to take in order to promote the availability of universal service;
+- (e) what steps have been taken in the previous year in order to promote universal service;
+- (f) any other matter that the Authority regards as relevant to the provision of universal service.
 - (2) The universal service report must be dealt with in the same manner as the annual report of the Authority referred to in section 26.
 
 ## PART 5 SPECIAL RIGHTS OF CARRIERS
@@ -1061,8 +1057,8 @@ public purposes, and any railway, and construct and maintain a telecommunication
 
 68. (1) A carrier must perform its functions in terms of this Chapter in accordance with the regulations contemplated in subsection (2).
 - (2) The Authority may prescribe -
-3. (a) the manner, form and period of notice to be given by a carrier to any person or public body in connection with the performance by the carrier of functions contemplated in this Part;
-4. (b) the procedure to be followed and consultations to be held between a carrier and any affected person or public body.
+- (a) the manner, form and period of notice to be given by a carrier to any person or public body in connection with the performance by the carrier of functions contemplated in this Part;
+- (b) the procedure to be followed and consultations to be held between a carrier and any affected person or public body.
 
 ## Authority to adjudicate in disputes between owners of property and carriers
 
@@ -1095,10 +1091,10 @@ So help me God.'
 (10) Any provision in any law requiring a person to provide assistance with interception or that authorises the issue of a warrant or other order compelling or requiring a person to render assistance with interception is construed so that the assistance in question includes the provision of a key or other information necessary to make any information obtained by the interception in question, intelligible.
 
 - (11) The Director-General may issue directives in which he or she determines -
-2. (a) how information obtained by interception must be handled;
-3. (b) which persons may handle information obtained by means of interception;
-4. (c) which persons may perform any action relating to interception;
-5. (d) any other technical or procedural matter relating to interception that is necessary or expedient in order to ensure that information obtained by means of interception is only used for its intended purpose and that the objects of this Part are fulfilled.
+- (a) how information obtained by interception must be handled;
+- (b) which persons may handle information obtained by means of interception;
+- (c) which persons may perform any action relating to interception;
+- (d) any other technical or procedural matter relating to interception that is necessary or expedient in order to ensure that information obtained by means of interception is only used for its intended purpose and that the objects of this Part are fulfilled.
 
 ## Duties relating to interception
 
@@ -1108,9 +1104,9 @@ So help me God.'
 - (3) A telecommunication service provider must acquire at its own cost whether by purchasing or leasing the facilities and capabilities necessary to comply with the duties referred to in subsection (1) and (2).
 - (4) Costs incurred by telecommunications service providers in complying with subsection (1) and (2), including investments, technical, maintenance and operating costs must be borne by that telecommunications service provider.
 - (5) The provisions of this Part are not construed so -
-5. (a) as to prohibit the use of any specific type of technology;
-6. (b) as to compel service providers to perform any action that would make the provision of any class of telecommunications service uneconomical or technically infeasible;
-7. (c) as to obtain or store any information that in the normal use of any technology or protocol will not come to its knowledge or would not be readily available.
+- (a) as to prohibit the use of any specific type of technology;
+- (b) as to compel service providers to perform any action that would make the provision of any class of telecommunications service uneconomical or technically infeasible;
+- (c) as to obtain or store any information that in the normal use of any technology or protocol will not come to its knowledge or would not be readily available.
 
 ## Assistance by telecommunications service providers and compensation therefor
 
@@ -1188,10 +1184,10 @@ commits an offence and is liable on conviction to a fine of N$100 000 or impriso
 - (2) A licensee may request the Authority to conduct such a hearing earlier than required by subsection (1) and the Authority must hold such hearing, if the licensee requesting such a hearing presents sufficient information to the Authority to convince it that there is a prima facie case that a different licensee has become a dominant provider of telecommunications services.
 - (3) The Authority may also conclude that a licensee is dominant in respect of a specific class of telecommunications services when it is considering a matter where the question of dominance is relevant: Provided that it gives all parties affected by that finding an opportunity to be heard on that matter.
 - (4) Subject to subsection (5), the Authority must find a licensee to be dominant if it is of the opinion that -
-4. (a) the licensee in question has such a share of the market in the class of telecommunications services in question, that it is able to act independent of its competitors;
-5. (b) the licensee controls some infrastructure that is necessary for the provision of the services in question;
-6. (c) the licensee in question is dominant as provided in paragraph (a) or (b) in respect of a class of related services (which need not be telecommunications services) and the licensee can use that dominance to exercise power in the market for the telecommunications services in question; or
-7. (d) the licensee in question has a position in a market in another country or a relationship with providers in another country that can be used to exercise market power in respect of the relevant class of telecommunications services in Namibia.
+- (a) the licensee in question has such a share of the market in the class of telecommunications services in question, that it is able to act independent of its competitors;
+- (b) the licensee controls some infrastructure that is necessary for the provision of the services in question;
+- (c) the licensee in question is dominant as provided in paragraph (a) or (b) in respect of a class of related services (which need not be telecommunications services) and the licensee can use that dominance to exercise power in the market for the telecommunications services in question; or
+- (d) the licensee in question has a position in a market in another country or a relationship with providers in another country that can be used to exercise market power in respect of the relevant class of telecommunications services in Namibia.
 - (5) The Authority must consider the market power that may be exercised by a competitor of the licensee concerned in order to determine whether any of the matters referred to in subsection (4) will give the licensee concerned market power as contemplated in subsection (4).
 
 ## Consumer protection
@@ -1254,10 +1250,10 @@ commits an offence and is liable on conviction to a fine of N$100 000 or impriso
 
 84. (1) Before this Chapter is put into operation, and thereafter whenever it may be necessary, the Authority must conduct a rule-making procedure to prescribe the categories of broadcasting licences.
 - (2) When different categories of broadcasting licences are determined, the following distinguishing characteristics of the services must be taken into account -
-3. (a) the method used to distribute the services concerned;
-4. (b) whether scarce resources such as portions of the radio spectrum are used by the service;
-5. (c) the extent to which the licensee has editorial control over the contents of channels or programs forming part of the services concerned and whether the provider concerned is a provider contemplated in section 83(2);
-6. (d) whether the services concerned are community, commercial or public broadcasting services.
+- (a) the method used to distribute the services concerned;
+- (b) whether scarce resources such as portions of the radio spectrum are used by the service;
+- (c) the extent to which the licensee has editorial control over the contents of channels or programs forming part of the services concerned and whether the provider concerned is a provider contemplated in section 83(2);
+- (d) whether the services concerned are community, commercial or public broadcasting services.
 
 ## Issue of broadcasting licences
 
@@ -1411,11 +1407,11 @@ or it may take any other action authorised by this Act.
 
 96. (1) The Authority may on application made to it in the prescribed manner, and on such conditions contemplated in subsection (2) and against payment of such fees as may be prescribed, issue a postal service licence conferring the right to provide a postal service for such period as may be prescribed.
 - (2) When the Authority grants a postal licence, it may impose such conditions as may be necessary which conditions may relate to -
-3. (a) the compulsory provision of such class of services as it deems necessary;
-4. (b) such information and reports that must be provided to the Authority;
-5. (c) any other matter that may be necessary to implement and regulate the postal industry in Namibia.
+- (a) the compulsory provision of such class of services as it deems necessary;
+- (b) such information and reports that must be provided to the Authority;
+- (c) any other matter that may be necessary to implement and regulate the postal industry in Namibia.
 - (3) (a) The Authority must cause notice to be given in the Gazette of every application received by it under subsection (1).
-7. (b) Any person may within 14 days of publication of a notice in terms of paragraph (a) lodge with the Authority written representations opposing
+- (b) Any person may within 14 days of publication of a notice in terms of paragraph (a) lodge with the Authority written representations opposing
 
 the application in question and such representations must be taken into account when the Minister considers that application.
 
@@ -1457,11 +1453,11 @@ an accountant and auditor in terms of the Public Accountants' and Auditors' Act,
 ## Regulations relating to postal service licences
 
 98. The Authority, with the approval of the Minister, may make regulations -
-2. (a) prescribing the form and procedure to be followed when a person applies for a postal service licence;
-3. (b) prescribing any fees to be paid for an application for a postal service licence, any deposit payable in respect of an application for a postal service licence and any fees payable by a licensee in respect of a licence;
-4. (c) prescribing any services that may only be provided by a prescribed holder of a postal service licence in order to compensate that holder for the provision of other compulsory or unprofitable services;
-5. (d) prescribing any service involving the transport of packages or documents to be postal services for the purposes of this Chapter;
-6. (e) prescribing anything that in terms of this Chapter may or must be prescribed.
+- (a) prescribing the form and procedure to be followed when a person applies for a postal service licence;
+- (b) prescribing any fees to be paid for an application for a postal service licence, any deposit payable in respect of an application for a postal service licence and any fees payable by a licensee in respect of a licence;
+- (c) prescribing any services that may only be provided by a prescribed holder of a postal service licence in order to compensate that holder for the provision of other compulsory or unprofitable services;
+- (d) prescribing any service involving the transport of packages or documents to be postal services for the purposes of this Chapter;
+- (e) prescribing anything that in terms of this Chapter may or must be prescribed.
 
 ## CHAPTER VIII REGULATION OF RADIO SPECTRUM
 
@@ -1516,9 +1512,9 @@ except under and in accordance with a licence issued in terms of subsection(2) a
 
 - (2) The Authority may issue a licence conferring on the licensee the right to use, or to cause any person in his or her employ or under his or her control to use a transmitter for any prescribed purpose or to use any radio frequency or group of radio frequencies or radio receiver for any purpose and in the manner prescribed or determined in the licence concerned.
 - (3) The authority may -
-3. (a) determine in a spectrum licence that the radio apparatus specified in that licence;
-4. (b) prescribe the circumstances under which radio apparatus; or
-5. (c) prescribe the categories of radio apparatus that,
+- (a) determine in a spectrum licence that the radio apparatus specified in that licence;
+- (b) prescribe the circumstances under which radio apparatus; or
+- (c) prescribe the categories of radio apparatus that,
 
 may only be operated or maintained by a person to whom -
 
@@ -1662,14 +1658,14 @@ does not require a licence, certificate or authority in terms of this section or
 ## Functions of Association
 
 109. (1) The Association must -
-2. (a) administer and manage the .na domain name space;
-3. (b) comply with international best practices in the administration of the .na domain name space;
-4. (c) license and regulate registries;
-5. (d) license and regulate registrars for the respective registries; and
-6. (e) publish guidelines on -
-7. (i) the general administration and management of the .na domain name space;
-8. (ii) the requirements and procedures for domain name registration; and
-9. (iii) the maintenance of and public access to a repository,
+- (a) administer and manage the .na domain name space;
+- (b) comply with international best practices in the administration of the .na domain name space;
+- (c) license and regulate registries;
+- (d) license and regulate registrars for the respective registries; and
+- (e) publish guidelines on -
+- (i) the general administration and management of the .na domain name space;
+- (ii) the requirements and procedures for domain name registration; and
+- (iii) the maintenance of and public access to a repository,
 
 with due regard to the policy directives which the Minister may make from time to time by notice in the Gazette .
 
@@ -1913,8 +1909,8 @@ is guilty of an offence.
 circumstances of the case any delay may prejudice the purpose for which the search is carried out.
 
 - (5) A person who removes anything from premises being searched must
-2. (a) issue a receipt for it to the owner of, or person in control of, the premises; and
-3. (b) return it as soon as practicable after achieving the purpose for which it was removed.
+- (a) issue a receipt for it to the owner of, or person in control of, the premises; and
+- (b) return it as soon as practicable after achieving the purpose for which it was removed.
 
 (6) If the owner or person in control of an article or document refuses to allow the inspector conducting a search to inspect that article or document, the inspector may request the registrar or sheriff of the High Court, or the messenger of the magistrate's court of the area of jurisdiction where the premises are situated, to attach and remove the article or document for safe custody until a competent court determines whether or not the information is privileged.
 
@@ -1927,8 +1923,8 @@ circumstances of the case any delay may prejudice the purpose for which the sear
 ## Expropriation
 
 128. (1) Notwithstanding anything to the contrary contained in any law -
-2. (a) the holder of a telecommunications licence to which part 5 of Chapter V applies; and
-3. (b) the holder of a broadcasting licence (except the Namibian Broadcasting Corporation established by section 2 of the Namibian Broadcasting Act, 1991 (Act No. 9 of 1991)),
+- (a) the holder of a telecommunications licence to which part 5 of Chapter V applies; and
+- (b) the holder of a broadcasting licence (except the Namibian Broadcasting Corporation established by section 2 of the Namibian Broadcasting Act, 1991 (Act No. 9 of 1991)),
 
 may, with the approval of the Cabinet and subject to such conditions as the Cabinet may impose, by expropriation acquire any land or any right in, over or in respect of land as the licensee may require, in the public interest, that is necessary for the rendering of telecommunications or broadcasting services and to which part 5 do not apply.
 

@@ -5,9 +5,7 @@ As per section 99 of the Communications Act, 2009 the Authority is vested with t
 
 To this end the Authority has developed a spectrum assignment strategy setting out the Authority's objectives for spectrum management and providing clarity in respect of the Authority's approach to the control, planning, administration and licensing of radio spectrum.
 
-## GOVERNMENT GAZETTE
-
-## OF THE REPUBLIC OF NAMIBIA
+## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
 | N$6.00         | WINDHOEK - 26 November 2018                                                                             | No. 6776       |
 |----------------|---------------------------------------------------------------------------------------------------------|----------------|
@@ -77,7 +75,8 @@ Where spectrum licensees are required to migrate to new frequencies as a result 
 
 ## 5. FREQUENCY CHANNELING PLANS TO BE DEVELOPED BY THE AUTHORITY UNTIL 2020
 
-The Authority has commenced with development of frequency channelling plans in accordance with the Final Acts of WRC-15 for telecommunications services for IMT and PPDR implementation and the SADC ICT Minister's decision in respect of implementation of digital sound broadcasting.
+**Authority has commenced with development of frequency channelling plans in accordance with the Final Acts of WRC-15 for telecommunications services for IMT and PPDR implementation and the SADC ICT**  
+THE Minister 's decision in respect of implementation of digital sound broadcasting
 
 ## 5.1 Telecommunications services using IMT technologies
 
@@ -280,6 +279,8 @@ To this end the Authority will undertake a review of the following regulations -
 
 The Authority will consider the review of the frequency band plan of Namibia and spectrum licence exempt regulations after conclusion of the next ITU World Radio Conference (WRC-19) to be held in November 2019. Such a review will be based on the Final Acts of WRC-19.
 
-## F. KISHI CHAIRPERSON COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**F. KISHI**  
+CHAIRPERSON  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ---

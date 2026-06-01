@@ -5,7 +5,9 @@ No. 161
 
 The Communications Regulatory Authority of Namibia, under section 129 read with section 101(16) of the Communications Act, 2009 (Act No. 8 of 2009) and in accordance with the Regulations Regarding Rule-Making Procedures published under General Notice No. 334 of 17 December 2010, has amended the Regulations Prescribing Procedures Regarding Application for, and Amendment, Renewal, Transfer and Cancellation of Spectrum Licences published in the Government Gazette No. 6888, General Notice No. 104 dated 29 April 2019 and as amended by General Notice No. 446 as published in Government Gazette No. 7613 of 30 August 2021.
 
-## H. M. GAOMAB II CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**H. M. GAOMAB II**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ## SCHEDULE
 

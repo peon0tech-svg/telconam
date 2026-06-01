@@ -1,11 +1,7 @@
 
 N$18.00
 
-## GOVERNMENT GAZETTE
-
-## OF THE
-
-## REPUBLIC OF NAMIBIA
+## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
 WINDHOEK - 1 June 2017
 
@@ -49,11 +45,11 @@ The Communications Regulatory Authority of Namibia, in terms of section 38(5), 1
 
 2. (1) As specified in regulations 6(1) and (2) of the Regulations Setting Out Licence Conditions for Spectrum Use Licences, the authorisation to utilise spectrum expires on 31 December of every calendar year and application must be made for the renewal thereof two months prior to 31 December of each year.
 - (2) The Table below specifies the following fees as payable to the Authority:
-3. (a) Annual and other fees payable with regard to the authorisation to utilise spectrum stipulated in a spectrum licence;
-4. (b) fees payable with regard to a certificate contemplated in section 101 of the Act;
-5. (c) fees payable with regard to an examination contemplated in section 101 of the Act.
+- (a) Annual and other fees payable with regard to the authorisation to utilise spectrum stipulated in a spectrum licence;
+- (b) fees payable with regard to a certificate contemplated in section 101 of the Act;
+- (c) fees payable with regard to an examination contemplated in section 101 of the Act.
 - (3) Notwithstanding anything else to the contrary contained in these Regulations and the Regulations Setting out Licence Conditions for Spectrum Use Licences -
-7. (a) the fees set out in the following items of the Table below are payable in full, and are not refundable or refundable in part, irrespective thereof that the spectrum licences pertaining to such fees are issued during the course of a specific annual year or,
+- (a) the fees set out in the following items of the Table below are payable in full, and are not refundable or refundable in part, irrespective thereof that the spectrum licences pertaining to such fees are issued during the course of a specific annual year or,
 
 during the same year, such licence or the authorisation to utilise spectrum in terms of such licence, expired, are forfeited, lapsed or are discontinued for whatever reason:
 
@@ -176,9 +172,9 @@ during the same year, such licence or the authorisation to utilise spectrum in t
 ## Application of fees and general provisions
 
 3. (1) (a) Where an annual fee specified in the Table above, for whatever reason, is not payable in respect of a whole calendar year, the fee to be paid or to be refunded must be apportioned according to the relevant number of months for which payment is made.
-2. (b) For purposes of paragraph (a), a part of a month is regarded as a full month.
-3. (c) Irrespective of the actual amount contemplated in paragraph (a), the minimum fee payable is N$ 60.00, excluding photocopies.
-4. (d) This sub-regulation is subject to regulation 2(3).
+- (b) For purposes of paragraph (a), a part of a month is regarded as a full month.
+- (c) Irrespective of the actual amount contemplated in paragraph (a), the minimum fee payable is N$ 60.00, excluding photocopies.
+- (d) This sub-regulation is subject to regulation 2(3).
 - (2) The Authority may not issue a spectrum licence, or a certificate, or renew the authorisation to utilise spectrum stipulated in a spectrum licence, or a certificate, unless the relevant fee as set out in the Table above is paid to the Authority.
 - (3) A spectrum licence is issued, and the right to utilise spectrum is authorised, subject to the Regulations Setting Out Licence Conditions for Spectrum Use Licences.
 
@@ -188,4 +184,6 @@ during the same year, such licence or the authorisation to utilise spectrum in t
 - (2) A person or a spectrum licensee who applies in 2017 for a spectrum licence, or to renew the authorisation to utilise spectrum for the ensuing calendar year as contemplated in regulation 6(1) and (2) of the Regulations Setting Out Licence Conditions for Spectrum Use Licences, must pay the relevant fee set out in these Regulations by the due date for payment notwithstanding that such due date may be on or prior to 1 January 2018.
 - (3) Sub-regulation (2) applies in the same manner, but with the necessary changes, to certificates contemplated in items 2.5, 3.2 and 10.2 of the Table above.
 
-## F. KISHI CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**F. KISHI**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA

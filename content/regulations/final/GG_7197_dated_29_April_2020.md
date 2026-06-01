@@ -1,8 +1,6 @@
 
 
-## GOVERNMENT GAZETTE
-
-## OF THE REPUBLIC OF NAMIBIA
+## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
 N$9.00
 
@@ -32,7 +30,8 @@ No. 159
 
 The Communications Regulatory Authority of Namibia, in terms of section 129(2) of the Communications Act, 2009 (Act No. 8 of 2009), makes the regulations set out in the Schedule.
 
-## H. M. GAOMAB II CHAIRPERSON
+**H. M. GAOMAB II**  
+CHAIRPERSON
 
 ## SCHEDULE
 
@@ -61,13 +60,13 @@ The Communications Regulatory Authority of Namibia, in terms of section 129(2) o
 ## Objects and application of these Regulations
 
 2. (1) The objects of these Regulations are:
-2. (a) To consolidate and simplify the penalty regime for contraventions and failures and matters related to penalties in regulations;
-3. (b) to improve compliance with the Act and regulations made under the Act;
-4. (c) to promote a transparent, non-discriminatory, well-defined and consistent approach when dealing with compliance, enforcement and penalties;
-5. (d) within the communications sector, to promote a stable regulatory environment thereby fostering market and investor confidence and understanding;
-6. (e) to accommodate a layered and flexible approach to enforcement of regulations and proportionality of punitive responses to contraventions and failures;
-7. (f) to promote a cooperative relationship between the regulator and the regulated focussing on understanding of the regulated environment, regulatory obligations and the enforcement regime and offence prevention;
-8. (g) to work towards an accountable and a cost-effective regulatory enforcement regime with appropriate safeguards.
+- (a) To consolidate and simplify the penalty regime for contraventions and failures and matters related to penalties in regulations;
+- (b) to improve compliance with the Act and regulations made under the Act;
+- (c) to promote a transparent, non-discriminatory, well-defined and consistent approach when dealing with compliance, enforcement and penalties;
+- (d) within the communications sector, to promote a stable regulatory environment thereby fostering market and investor confidence and understanding;
+- (e) to accommodate a layered and flexible approach to enforcement of regulations and proportionality of punitive responses to contraventions and failures;
+- (f) to promote a cooperative relationship between the regulator and the regulated focussing on understanding of the regulated environment, regulatory obligations and the enforcement regime and offence prevention;
+- (g) to work towards an accountable and a cost-effective regulatory enforcement regime with appropriate safeguards.
 - (2) Unless the imposition of a punitive measure under these Regulations is specifically excluded in a regulation made under the Act, these Regulations apply to every holder of an authorisation, a user, a customer and any other person (hereafter in these Regulations collectively referred to as 'a person') to whom a regulation made under the Act applies and who commits a contravention or failure.
 - (3) A punitive measure may be imposed, in the manner provided in these Regulations, on a person who commits a contravention or failure.
 - (4) These Regulations apply also to a code or standard made or set under the Act.
@@ -86,11 +85,11 @@ The Communications Regulatory Authority of Namibia, in terms of section 129(2) o
 ## Interaction between various punitive actions
 
 4. (1) Punitive measures taken under these Regulations -
-2. (a) do not exempt a person from civil or criminal liability in respect of the contravention or failure on account of which those measures were taken by the Authority;
-3. (b) unless specifically excluded, do not preclude the Authority from taking any other punitive action it is authorised to take under the Act with regard to such contravention or failure.
+- (a) do not exempt a person from civil or criminal liability in respect of the contravention or failure on account of which those measures were taken by the Authority;
+- (b) unless specifically excluded, do not preclude the Authority from taking any other punitive action it is authorised to take under the Act with regard to such contravention or failure.
 - (2) Unless clearly not compatible, the punitive measures provided for in these Regulations are not exclusionary and the Authority may impose more than one such measure if appropriate under circumstances.
 - (3) (a) Where the conduct of a person constitutes a contravention or failure with more than one regulation, punitive measures may be taken against such person as regards such person's contravention or failure with any one or more of those regulations.
-6. (b) Notwithstanding paragraph (a), a person is not liable to more than one monetary penalty under these Regulations in respect of the same contravention or failure subject thereto that a monetary penalty imposed under regulation 7(2), if it constitutes both a daily monetary penalty and a once-off monetary penalty, is deemed to be one punitive measure.
+- (b) Notwithstanding paragraph (a), a person is not liable to more than one monetary penalty under these Regulations in respect of the same contravention or failure subject thereto that a monetary penalty imposed under regulation 7(2), if it constitutes both a daily monetary penalty and a once-off monetary penalty, is deemed to be one punitive measure.
 - (4) Punitive measures imposed by the Authority under these Regulations may differ between persons according to the criteria which the Authority considered and which were relevant to the contravention or failure.
 - (5) Notwithstanding subregulation (1)(b), sections 114 to 117 of the Act pertain to regulatory and general offences and contraventions or failures of provisions of the Act as specified in those sections and therefore do not apply to contraventions or failures of provisions of regulations made under the Act.
 
@@ -104,17 +103,17 @@ The Communications Regulatory Authority of Namibia, in terms of section 129(2) o
 
 6. (1) Punitive notices issued under these Regulations aim at promoting, enforcing and ensuring compliance with regulations made under the Act and must be in writing.
 - (2) A punitive notice, without limiting the power of the Authority to issue a warning notice or any other general notice deemed appropriate under circumstances, may include one or more of the following types of notices:
-3. (a) A compliance notice instructing a person to take such action as may be necessary to ensure compliance;
-4. (b) a cease and desist notice instructing a person to cease, within a specified period, with a contravention or failure;
-5. (c) a remedial notice requiring a person to implement remedial action by taking such action or adopting such practice as the Authority requires and as set out in the notice for remedying a contravention or failure or preventing the re-occurrence of a contravention or failure;
-6. (d) a compliance programme notice instructing a person to draw up, submit for approval to the Authority and implement a particular programme for compliance;
-7. (e) a monetary penalty notice ordering a person to pay a monetary penalty determined in accordance with these Regulations.
+- (a) A compliance notice instructing a person to take such action as may be necessary to ensure compliance;
+- (b) a cease and desist notice instructing a person to cease, within a specified period, with a contravention or failure;
+- (c) a remedial notice requiring a person to implement remedial action by taking such action or adopting such practice as the Authority requires and as set out in the notice for remedying a contravention or failure or preventing the re-occurrence of a contravention or failure;
+- (d) a compliance programme notice instructing a person to draw up, submit for approval to the Authority and implement a particular programme for compliance;
+- (e) a monetary penalty notice ordering a person to pay a monetary penalty determined in accordance with these Regulations.
 - (3) Subsequent to an investigation contemplated in regulation 3(1)(b), the Authority may issue a provisional punitive notice which notice -
-9. (a) must specify the type of notice;
-10. (b) must specify the name of the person to whom the provisional notice is issued;
-11. (c) must describe the contravention, failure or other type of behaviour involved or which is a cause of concern which, in so far as available, must include the place and date or time when it occurred and such other relevant facts and information substantiating such contravention, failure or behaviour so as to enable the person to whom the notice is addressed to make representations thereon to the Authority;
-12. (d) must set out the reasons for the provisional notice;
-13. (e) must, if applicable, indicate the consequences of such contravention, failure or behaviour;
+- (a) must specify the type of notice;
+- (b) must specify the name of the person to whom the provisional notice is issued;
+- (c) must describe the contravention, failure or other type of behaviour involved or which is a cause of concern which, in so far as available, must include the place and date or time when it occurred and such other relevant facts and information substantiating such contravention, failure or behaviour so as to enable the person to whom the notice is addressed to make representations thereon to the Authority;
+- (d) must set out the reasons for the provisional notice;
+- (e) must, if applicable, indicate the consequences of such contravention, failure or behaviour;
 
 - (f) must, if applicable, indicate the period within which there must be compliance with the notice should the notice become final;
 - (g) must inform the person to whom the provisional notice is addressed of such person's right to make written presentations to the Authority regarding the notice or any other matter related thereto within the time period specified in the provisional notice;
@@ -129,13 +128,13 @@ The Communications Regulatory Authority of Namibia, in terms of section 129(2) o
 ## Monetary penalties which may be imposed by the Authority
 
 7. (1) In the event of a contravention or failure by a person, the Authority may by means of a monetary penalty notice -
-2. (a) impose a daily monetary penalty of not exceeding N$ 10,000.00 for each day during which the contravention or failure continues, irrespective of the number of days during which such contravention or failure continues provided that such daily monetary penalties may not accumulate to more than N$ 1,000,000.00; or
-3. (b) impose a once-off monetary penalty not exceeding N$ 1,000,000.00; or
-4. (c) if appropriate, order the holder of an authorisation to compensate its subscribers or customers to the amount and in the manner set out in the monetary penalty notice.
+- (a) impose a daily monetary penalty of not exceeding N$ 10,000.00 for each day during which the contravention or failure continues, irrespective of the number of days during which such contravention or failure continues provided that such daily monetary penalties may not accumulate to more than N$ 1,000,000.00; or
+- (b) impose a once-off monetary penalty not exceeding N$ 1,000,000.00; or
+- (c) if appropriate, order the holder of an authorisation to compensate its subscribers or customers to the amount and in the manner set out in the monetary penalty notice.
 - (2) A compensation order in terms of subregulation (1)(c) is subject to the following conditions:
-6. (a) The subscriber or customer must have suffered direct financial loss as a result of the contravention or failure which financial loss must be easily quantifiable;
-7. (b) the compensation ordered may not exceed the direct financial loss suffered by the subscriber or customer as a result of the contravention or failure;
-8. (c) when deciding whether or not to order compensation and, if the Authority decides to order compensation, when deciding on the amount thereof, the Authority must have regard to the authorisation holder's means;
+- (a) The subscriber or customer must have suffered direct financial loss as a result of the contravention or failure which financial loss must be easily quantifiable;
+- (b) the compensation ordered may not exceed the direct financial loss suffered by the subscriber or customer as a result of the contravention or failure;
+- (c) when deciding whether or not to order compensation and, if the Authority decides to order compensation, when deciding on the amount thereof, the Authority must have regard to the authorisation holder's means;
 
 - (d) if a subscriber or customer received compensation for loss or damage resulting from the contravention or failure from any other source, the latter must be deducted from compensation ordered in terms of subregulation (1)(c);
 - (e) a subscriber or customer may only be compensated once for financial loss suffered as a result of the same contravention or failure.
@@ -144,20 +143,20 @@ The Communications Regulatory Authority of Namibia, in terms of section 129(2) o
 ## Interest on amounts due
 
 8. The Authority may charge interest on -
-2. (a) the failure to pay any fee, levy or other monetary amount (excluding a monetary penalty) payable under the Act by the date which such payment is due which interest may not exceed a rate of three percent above the prevailing prime rate as determined by the Bank of Namibia, which interest shall be in addition to any other penalty which may be imposed with regard to such late payment;
-3. (b) any monetary penalty not paid by the due date which interest may not exceed the prevailing prime rate as determined by the Bank of Namibia.
+- (a) the failure to pay any fee, levy or other monetary amount (excluding a monetary penalty) payable under the Act by the date which such payment is due which interest may not exceed a rate of three percent above the prevailing prime rate as determined by the Bank of Namibia, which interest shall be in addition to any other penalty which may be imposed with regard to such late payment;
+- (b) any monetary penalty not paid by the due date which interest may not exceed the prevailing prime rate as determined by the Bank of Namibia.
 
 ## Criteria to be considered by Authority when deciding on imposition of penalty
 
 9. (1) Subject to regulation 7(2), when deciding on the type of punitive measure or measures to impose or the size or amount of a monetary penalty, the Authority must take into consideration the following criteria in so far as they are relevant:
-2. (a) The nature, extent and gravity of the contravention or failure including the consequences thereof;
-3. (b) the duration of the contravention or failure and whether it constituted a single contravention or failure or more than one;
-4. (c) the nature and extent of any loss or damage suffered as a result of the contravention or failure;
-5. (d) whether the person has engaged in any similar conduct and has been found in the past to be in contravention or failure in respect of that conduct;
-6. (e) whether any other sanction, penalty or fine has already been imposed under the Act or any other law with regard to the contravention or failure;
-7. (f) the extent to which the contravention or failure was deliberate or reckless or the degree of negligence involved;
-8. (g) the level of profit derived or to be derived from the contravention or failure;
-9. (h) whether the person who committed the contravention or failure showed a disposition to cooperate with the Authority in relation to the contravention or failure and any pro-active or voluntary steps taken by such person to remedy the contravention or failure;
+- (a) The nature, extent and gravity of the contravention or failure including the consequences thereof;
+- (b) the duration of the contravention or failure and whether it constituted a single contravention or failure or more than one;
+- (c) the nature and extent of any loss or damage suffered as a result of the contravention or failure;
+- (d) whether the person has engaged in any similar conduct and has been found in the past to be in contravention or failure in respect of that conduct;
+- (e) whether any other sanction, penalty or fine has already been imposed under the Act or any other law with regard to the contravention or failure;
+- (f) the extent to which the contravention or failure was deliberate or reckless or the degree of negligence involved;
+- (g) the level of profit derived or to be derived from the contravention or failure;
+- (h) whether the person who committed the contravention or failure showed a disposition to cooperate with the Authority in relation to the contravention or failure and any pro-active or voluntary steps taken by such person to remedy the contravention or failure;
 
 - (i) whether the person has in place a compliance programme or a corporate culture or governance structure conducive to compliance as evidenced by, amongst others, guidelines, internal rules, educational programmes and disciplinary or other corrective measures in response to an acknowledged contravention or failure and, if so, whether the person has been complying therewith;
 - (j) the deterrent effect of the relevant punitive measure;

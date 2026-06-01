@@ -1,10 +1,6 @@
 
 
-## GOVERNMENT GAZETTE
-
-## OF THE
-
-## REPUBLIC OF NAMIBIA
+## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
 N$6.00
 
@@ -57,7 +53,7 @@ BE IT ENACTED as passed by the Parliament, and assented to by the President, of 
 ## Amendment of section 1 of Act No. 8 of 2009
 
 1. Section 1 of the Communications Act, 2009 (in this Act referred to as the 'principal Act'), is amended -
-2. (a) by the insertion in subsection (1), after the definition of 'regulation', of the following definition:
+- (a) by the insertion in subsection (1), after the definition of 'regulation', of the following definition:
 
 '`regulatory costs' means the operating expenses and capital costs, whether actual or properly estimated or projected, required by the Authority in the performance of its functions including, without limiting the aforegoing generality, remuneration and other employment related expenditures and all other administrative expenditures and providing for reserves and other liabilities and expenditures required for the purposes of -
 
@@ -76,7 +72,7 @@ BE IT ENACTED as passed by the Parliament, and assented to by the President, of 
 ## Amendment of section 22 of Act No. 8 of 2009
 
 2. Section 22 of the principal Act is amended by the substitution for paragraph (e) of subsection (1) of the following paragraph:
-2. '(e) any [revenue] income received for services provided in the course of its activities;'.
+'(e) any [revenue] income received for services provided in the course of its activities;'.
 
 ## Substitution of section 23 of Act No. 8 of 2009
 
@@ -85,15 +81,15 @@ BE IT ENACTED as passed by the Parliament, and assented to by the President, of 
 ## ' Regulatory levy
 
 23. (1) With due regard to subsections (4) to (8), the Authority may by regulation, after having followed a rule-making procedure, impose a regulatory levy upon providers of communications services in order to defray its regulatory costs, which levy may take one or more of the following forms -
-2. (a) a percentage of the turnover of all or a prescribed class of the providers of communications services;
-3. (b) a fixed amount payable by a prescribed class of providers of communications services in respect of a prescribed period;
-4. (c) a fixed amount payable by a prescribed class of providers of communications services in respect of any customer to whom a prescribed class of service is rendered during that period;
-5. (d) as a combination of the forms referred to in paragraph(a), (b) or (c) together with provisions prescribing the circumstances under which a prescribed form of the levy is payable;
-6. (e) any other form that is not unreasonably discriminatory.
+- (a) a percentage of the turnover of all or a prescribed class of the providers of communications services;
+- (b) a fixed amount payable by a prescribed class of providers of communications services in respect of a prescribed period;
+- (c) a fixed amount payable by a prescribed class of providers of communications services in respect of any customer to whom a prescribed class of service is rendered during that period;
+- (d) as a combination of the forms referred to in paragraph(a), (b) or (c) together with provisions prescribing the circumstances under which a prescribed form of the levy is payable;
+- (e) any other form that is not unreasonably discriminatory.
 - (2) When imposing the levy, the Authority may by regulation -
-8. (a) impose different percentages or different fixed amounts depending on -
-9. (i) the amount of turnover of the provider;
-10. (ii) the category of communications services rendered by the provider;
+- (a) impose different percentages or different fixed amounts depending on -
+- (i) the amount of turnover of the provider;
+- (ii) the category of communications services rendered by the provider;
 
 - (iii) the class of licence issued to the provider; or
 - (iv) any other matter that is in the opinion of the Authority relevant for such an imposition;
@@ -160,15 +156,15 @@ of the Public Enterprises Governance Act, 2019 (Act No. 1 of 2019);
 ## Amendment of section 56 of Act No. 8 of 2009
 
 5. Section 56 of the principal Act is amended by -
-2. (a) the substitution for subsection (2) of the following subsection -
-3. '(2) The Authority may by regulation, after having followed a rule-making procedure, impose a universal service levy to be paid into the Universal Service Fund by a prescribed class of providers of telecommunications services.';
-4. (b) the substitution for subsection (3) of the following subsection:
-5. '(3) The provisions of section [23(2) and 23(3)] 23(1), 23(2), 23(6) and 23(9) apply with the necessary changes required by the context to the universal service levy.'; and
-6. (c) the insertion after subsection (3) of the following subsections:
-7. '(3A) The universal service levy imposed on a provider of telecommunications services may not exceed an amount which is more than five percent of the annual turnover of that service provider.
-8. (3B) When determining the universal service levy, the Authority must give due consideration to -
-9. (a) the minimum set of services prescribed under section 57(1);
-10. (b) the subsidies to be paid to licensees under section 57;
+- (a) the substitution for subsection (2) of the following subsection -
+'(2) The Authority may by regulation, after having followed a rule-making procedure, impose a universal service levy to be paid into the Universal Service Fund by a prescribed class of providers of telecommunications services.';
+- (b) the substitution for subsection (3) of the following subsection:
+'(3) The provisions of section [23(2) and 23(3)] 23(1), 23(2), 23(6) and 23(9) apply with the necessary changes required by the context to the universal service levy.'; and
+- (c) the insertion after subsection (3) of the following subsections:
+'(3A) The universal service levy imposed on a provider of telecommunications services may not exceed an amount which is more than five percent of the annual turnover of that service provider.
+- (3B) When determining the universal service levy, the Authority must give due consideration to -
+- (a) the minimum set of services prescribed under section 57(1);
+- (b) the subsidies to be paid to licensees under section 57;
 
 - (c) any under- or over-recoveries by the Universal Service Fund; and
 - (d) any other matter which the Authority deems relevant.'.
@@ -176,9 +172,9 @@ of the Public Enterprises Governance Act, 2019 (Act No. 1 of 2019);
 ## Amendment of section 75 of Act No. 8 of 2009
 
 6. Section 75 of the Principal Act is amended by the insertion in paragraph (d) of the following subparagraphs after subparagraph (i):
-2. '(iA) subject to any procedural requirements that may be prescribed and any other law, information that is necessary to investigate an offence;
-3. (iB) the information is required because it is necessary to locate a person and it is necessary to locate the person concerned in the public interest, the national interest of Namibia or for the purposes of a criminal investigation or in the interest of the missing person;
-4. (iC) where the person concerned has consented or where it is reasonable under the circumstances to assume that the person would have consented and it is due to the urgency of the request or for another reason not possible to obtain the consent of the person concerned: Provided that a general consent in a contract is not valid consent for the purposes of this subparagraph;'.
+'(iA) subject to any procedural requirements that may be prescribed and any other law, information that is necessary to investigate an offence;
+- (iB) the information is required because it is necessary to locate a person and it is necessary to locate the person concerned in the public interest, the national interest of Namibia or for the purposes of a criminal investigation or in the interest of the missing person;
+- (iC) where the person concerned has consented or where it is reasonable under the circumstances to assume that the person would have consented and it is due to the urgency of the request or for another reason not possible to obtain the consent of the person concerned: Provided that a general consent in a contract is not valid consent for the purposes of this subparagraph;'.
 
 ## Short title
 

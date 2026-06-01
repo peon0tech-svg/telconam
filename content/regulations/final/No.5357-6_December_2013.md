@@ -1,8 +1,6 @@
 
 
-## GOVERNMENT GAZETTE
-
-## OF THE REPUBLIC OFNAMIBIA
+## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
 N$7.20
 
@@ -570,11 +568,11 @@ The CommunicationsRegulatoryAuthority ofNamibia,in terms of section129(1)(f),rea
 2. Theseregulations shall be applicable to-
 - (1) AllDigital terrestrial televisionSet-TopBoxdecodersimportedandsoldwithin the Republic of Namibia.
 - (2) These regulations shall alsobe applicable to all of the following Set-Top Box decoder providers:-
-4. (a) BroadcastingServicelicensees;
-5. (b) Signal Distributor Licensees;
-6. (c) Multiplex Licensees;
-7. (d) Decodermanufacturers/distributors/retailers;and
-8. (e) The Public
+- (a) BroadcastingServicelicensees;
+- (b) Signal Distributor Licensees;
+- (c) Multiplex Licensees;
+- (d) Decodermanufacturers/distributors/retailers;and
+- (e) The Public
 
 ## Spectrum
 
@@ -592,7 +590,7 @@ The CommunicationsRegulatoryAuthority ofNamibia,in terms of section129(1)(f),rea
 
 | DESCRIPTION               | MINIMUMSTANDARD                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| SystemStandard            | DigitalVideoBroadcasting(DVB)-Terrestrial andDigitalVideoBroad- casting (DVB)-Terrestrial 2.                                                                                                                                                                                                                                                                                                                                                                                                 |
+| SystemStandard            | DigitalVideoBroadcasting(DVB)-Terrestrial andDigitalVideoBroadcasting (DVB)-Terrestrial 2.                                                                                                                                                                                                                                                                                                                                                                                                 |
 |                           | (Thefollowingreferences areindispensablefor theapplicationof this document.Forundatedreference,thelatesteditionofthereferenced document(includinganyamendments)applies: (ETSITS101154,DigitalVideoBroadcasting(DVB);Specificationfor theuseofVideoandAudioCodinginBroadcastingApplicationsbased ontheMPEG-2TransportStream;ETSIEN300743,DigitalVideo Broadcasting(DVB);Subtitling systems;ETSI ETR162,DigitalVideo Broadcasting(DVB);AllocationofServiceInformation(SI)codes for DVBsystems) |
 | Video Decoding            | MovingPicturesExpertsGroup2andMovingPicturesExpertsGroup4                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | VideoResolution           | StandardDefinition                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -622,9 +620,9 @@ The CommunicationsRegulatoryAuthority ofNamibia,in terms of section129(1)(f),rea
 
 7. (1) decoder:
 2. Thefollowing accessoriesshall beincluded in theboxfor eachSet-TopBox
-3. (a) AStandardremotecontrolwithbatteries;
-4. (b) Required power adaptors and a RF cable and/or a RCA cable;
-5. (c) AnEnglish instruction manual.
+- (a) AStandardremotecontrolwithbatteries;
+- (b) Required power adaptors and a RF cable and/or a RCA cable;
+- (c) AnEnglish instruction manual.
 
 ## Warranty and Support
 

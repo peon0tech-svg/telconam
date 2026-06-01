@@ -19,11 +19,10 @@ Communications Regulatory Authority of Namibia: Proposed Frequency Channeling Pl
 
 The Communications Regulatory Authority of Namibia in terms of section 100(1) read with section 129 of the Communications Act, 2009 (Act No. 8 of 2009), prescribes the Frequency Channelling Plan in respect of Digital Sound Broadcasting set out in the Schedule.
 
-H. M. GAOMAB II CHAIRPERSON OF THE BOARD
+**H. M. GAOMAB II**  
+CHAIRPERSON OF THE BOARD
 
-## GOVERNMENT GAZETTE OF THE
-
-## REPUBLIC OF NAMIBIA
+## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
 WINDHOEK - 7 August 2020
 

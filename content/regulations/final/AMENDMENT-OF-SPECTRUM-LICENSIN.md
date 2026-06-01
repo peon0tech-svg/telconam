@@ -22,8 +22,8 @@ The CommunicationsRegulatoryAuthority of Namibia,under section129readwith sectio
 ## Substitution of regulation 12 (9) and 12(10) of Regulations
 
 2. Regulation 12(9)and 12(10) ofthe Regulations is hereby amended by the substitution ofthoseparagraphswiththefollowingparagraphs:
-2. "(9) The Authority must forthwith publish a notice of the aforesaid application oramendmentintermsofsub-regulation(7)intheGazetteandinvitethepublictomake writtencommentstotheAuthoritywithinthetimesetoutinthenotice,whichtimemaynot belessthan14daysfromthedateofthepublication.
-3. (10)TheAuthoritywill providetheopportunity to an applicant or licenseeto
+"(9) The Authority must forthwith publish a notice of the aforesaid application oramendmentintermsofsub-regulation(7)intheGazetteandinvitethepublictomake writtencommentstotheAuthoritywithinthetimesetoutinthenotice,whichtimemaynot belessthan14daysfromthedateofthepublication.
+(10)TheAuthoritywill providetheopportunity to an applicant or licenseeto
 
 ## Insertion of the following sub-regulations after regulation 12(10) of Regulations
 
@@ -52,14 +52,14 @@ The CommunicationsRegulatoryAuthority of Namibia,under section129readwith sectio
 
 - (8) An applicant'sresponsetopubliccommentsmust be submitted inwritingto theAuthoritywithinthetimesetoutbytheAuthority,whichtimemaybenotlessthan14 daysfromthedeadlineforthesubmissionofpubliccommentsorifthenoticeforsubmissions of responsesispublished ina subsequent Gazette,notlessthan14daysfrom thedateof that publication.
 - (9) Thetimesforthe submissions of publiccomments and applicant or licensee's responses aretobedeterminedbytheAuthorityinlightsofthenatureof theapplication.
-3. (10)TheAuthority may consider written submissions not timeously filed if,in its opinion, it is practical to do so.
+(10)TheAuthority may consider written submissions not timeously filed if,in its opinion, it is practical to do so.
 - (11) The Authority may request further written submissions, such as for further informationorclarification,whichmustbeprovidedtotheAuthorityinthetimeandthe mannersetoutbytheAuthority.
 - (12) Allwrittensubmissionsmust-
-6. (a) containthenameandcontactdetailsofthepersonmakingthewritten submissionsorthenameandcontactdetailsofthepersonforwhomthe writtensubmissionismade,ifdifferent;
-7. (b) be clear and concise;and
-8. (c) conformtoanyfurtherrequirementsdeterminedbytheAuthorityfromtime to time.
+- (a) containthenameandcontactdetailsofthepersonmakingthewritten submissionsorthenameandcontactdetailsofthepersonforwhomthe writtensubmissionismade,ifdifferent;
+- (b) be clear and concise;and
+- (c) conformtoanyfurtherrequirementsdeterminedbytheAuthorityfromtime to time.
 - (13) After considering any application made in terms of this regulation and any written ororalsubmissions,ifanyreferredtoherein,theAuthoritymayrefuseorgrant theapplication, inwhole or inpart.
-10. (14)The Authority must whether or not requested by an applicant or licensee, furnishreasonsforitsdecisiontowithdraw orrefusetowithdrawthespectrumlicense.
+(14)The Authority must whether or not requested by an applicant or licensee, furnishreasonsforitsdecisiontowithdraw orrefusetowithdrawthespectrumlicense.
 
 ## Substitution ofAnnexure B
 

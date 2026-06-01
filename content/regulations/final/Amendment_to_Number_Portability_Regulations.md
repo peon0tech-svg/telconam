@@ -5,13 +5,12 @@ AMENDMENT THE REGULATIONS PRESCRIBING THE NATIONAL NUMBERING PLAN FOR USE IN THE
 
 The Communications Regulatory Authority of Namibia, in terms of sections 81(1), (3) and (4) and 129 of the Communications Act, 2009 (Act No. 8 of 2009), amends the Regulations Prescribing the National Numbering Plan for Use in the Provision of Telecommunications Services in the Republic of Namibia, Numbering Licence Fees and Procedures for Number Licences published in Government Gazette No. 5983, General Notice No. 97, dated 1 April and as amended by Government Notice No. 500 of 30 August 2018 as published in Government Gazette No. 6692 of 30 August 2018, as set out in the Schedule and effective from the date of publication in the Gazette .
 
-H. M. GAOMAB II CHAIRPERSON OF THE BOARD
+**H. M. GAOMAB II**  
+CHAIRPERSON OF THE BOARD
 
 COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
-## GOVERNMENT GAZETTE OF THE
-
-## REPUBLIC OF NAMIBIA
+## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
 N$6.00
 
@@ -38,7 +37,7 @@ WINDHOEK - 29 April 2020
 ## Amendment of Annexure 1A
 
 2. Annexure 1A of the Regulations is amended -
-2. (a) By the insertion of the following definition of the following definition after the definition of 'donor licensee':
+- (a) By the insertion of the following definition of the following definition after the definition of 'donor licensee':
 
 ''fixed service' means a radio communications service between two specified fixed points;';
 

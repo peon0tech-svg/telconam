@@ -1,11 +1,7 @@
 
 N$13.60
 
-## GOVERNMENT GAZETTE
-
-## OF THE
-
-## REPUBLIC OF NAMIBIA
+## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
 WINDHOEK - 30 January 2015
 
@@ -18,7 +14,7 @@ Page
 | GENERALNOTICES   | GENERALNOTICES                                                                                                                                                                                                                                                                                                                                         |    |
 |------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
 | No. 22           | Communications Regulatory Authority of Namibia: Regulations in respect of Type Approval and Technical Standards for Telecommunications Equipment: Communications Act, 2009                                                                                                                                                     |  2 |
-| No. 23           | Communications Regulatory Authority of Namibia: Notice of Determination of Lapsing of Broad- casting Service Licence in terms of Regulation 12(4) of the Regulations Regarding Licence Conditions for Broadcasting Service Licences             | 20 |
+| No. 23           | Communications Regulatory Authority of Namibia: Notice of Determination of Lapsing of Broadcasting Service Licence in terms of Regulation 12(4) of the Regulations Regarding Licence Conditions for Broadcasting Service Licences             | 20 |
 | No. 24           | Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs                                                                                                                            | 21 |
 | No. 25           | Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Regarding the Submissions of Interconnection Agreements and Tariffs                                                                                                                            | 23 |
 | No. 26           | Communications Regulatory Authority of Namibia: Notice in terms of the Regulations Regarding Licensing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences   | 25 |
@@ -105,16 +101,16 @@ The Communications Regulatory Authority of Namibia, in terms of section 80 read 
 ## Applicability
 
 4. (1) These regulations apply to-
-2. (a) all persons (whether legal or natural persons) who use, sell, offer for sale or connect telecommunications equipment to an electronic communications network within the Republic of Namibia; and
-3. (b) all telecommunications equipment used, sold, offered for sale or connected to an electronic communications network within the Republic Namibia.
-4. (c) all radio communications equipment or apparatus' pursuant to the Regulations regarding Licence Exempt Spectrum published in Government Gazette No. 4839, General Notice No. 395 dated 25 November 2011.
+- (a) all persons (whether legal or natural persons) who use, sell, offer for sale or connect telecommunications equipment to an electronic communications network within the Republic of Namibia; and
+- (b) all telecommunications equipment used, sold, offered for sale or connected to an electronic communications network within the Republic Namibia.
+- (c) all radio communications equipment or apparatus' pursuant to the Regulations regarding Licence Exempt Spectrum published in Government Gazette No. 4839, General Notice No. 395 dated 25 November 2011.
 - (2) These Regulations shall bind the State.
 
 ## Telecommunication equipment requiring type approval
 
 5. (1) Any person or entity who intends to -
-2. (a) connect telecommunications equipment to an electronic communication network in Namibia for purposes of electronic communications;
-3. (b) use, sell or offer for sale telecommunications equipment within the Republic of Namibia.
+- (a) connect telecommunications equipment to an electronic communication network in Namibia for purposes of electronic communications;
+- (b) use, sell or offer for sale telecommunications equipment within the Republic of Namibia.
 
 must apply for type approval to the Authority in respect of such telecommunications equipment prior to the use, connection, sale or re-sale thereof within the Republic of Namibia.
 
@@ -132,12 +128,12 @@ must apply for type approval to the Authority in respect of such telecommunicati
 
 7. (1) An applicant must submit an application on Form 1 set out in Annexure 1 of these Regulations in respect of telecommunications equipment requiring type approval.
 - (2) An application for type approval must be accompanied by-
-3. (a) personal identification, a certificate of incorporation or a valid trade licence in the name of the applicant;
-4. (b) a declaration of conformity in accordance with regulation 7;
-5. (c) technical, physical, operational, installation and user information;
-6. (d) software and firmware numbers of the telecommunications equipment being type approved;
-7. (e) all other documentation as required by Part 5 of the application form;
-8. (f) proof of payment of the applicable type approval fees as stipulated in Annexure 2.
+- (a) personal identification, a certificate of incorporation or a valid trade licence in the name of the applicant;
+- (b) a declaration of conformity in accordance with regulation 7;
+- (c) technical, physical, operational, installation and user information;
+- (d) software and firmware numbers of the telecommunications equipment being type approved;
+- (e) all other documentation as required by Part 5 of the application form;
+- (f) proof of payment of the applicable type approval fees as stipulated in Annexure 2.
 - (3) All copies of original documents submitted to the Authority in respect hereof should be certified copies, which has been certified by a Commissioner of Oath.
 - (4) The Authority may require an applicant to submit additional information as proof of complying with the applicable technical standards.
 - (5) An application form is not complete unless accompanied by the documents required in terms of sub-regulation (2) and where applicable, sub-regulation (4).
@@ -216,7 +212,7 @@ must apply for type approval to the Authority in respect of such telecommunicati
 ## Revocation of type approval certificate
 
 12. (1) Where the Authority is satisfied upon an investigation conducted in terms of Chapter X of the Act that-
-2. (a) any information provided to the Authority by the holder of a type approval certificate is found to be counterfeited or false;
+- (a) any information provided to the Authority by the holder of a type approval certificate is found to be counterfeited or false;
 
 - (b) type approved telecommunications equipment does not comply with applicable technical standards or these regulations;
 - (c) there is a breach of any condition endorsed on the type approval certificate;
@@ -226,8 +222,8 @@ the Authority may by written notice to the holder of a type approval certificate
 
 - (2) A holder of a type approval certificate may, within fifteen (15) days from the date of receipt of a notice referred to in sub-regulation (1), make written representations to the Authority on good cause shown as to why the certificate should not be cancelled.
 - (3) After consideration of the representations referred to in sub-regulation (2) or, if no such representations have been made, upon the expiry of the period mentioned in that sub-regulation, the Authority may-
-3. (a) if the Authority is satisfied that it is just and equitable to do so in the particular case, by written notice to the registered holder of a type approval certificate withdraw the notice referred to in sub-regulation (1); or
-4. (b) by written notice to the holder of the type approval certificate cancel the certificate.
+- (a) if the Authority is satisfied that it is just and equitable to do so in the particular case, by written notice to the registered holder of a type approval certificate withdraw the notice referred to in sub-regulation (1); or
+- (b) by written notice to the holder of the type approval certificate cancel the certificate.
 - (4) All telecommunications equipment that is the subject of a cancelled type approval certificate must be withdrawn from the market at the cost of the holder of the cancelled certificate within thirty (30) days from the date of receipt of the written notice referred to in paragraph (b) of sub-regulation (3).
 
 ## Fees
@@ -262,9 +258,9 @@ the Authority may by written notice to the holder of a type approval certificate
 - (3) Unless otherwise specified by the Authority, such hearings will be open to the public.
 - (4) The format and agenda of the hearing is at the discretion of the Authority, depending on the nature of the proceedings, provided however, that the hearing should be informal in nature.
 - (5) All oral submissions must -
-6. (a) include a statement indicating the name and contact details of the person making the oral submission and the name and contact details of the person for whom the oral submission is made, if different;
-7. (b) be clear and concise; and
-8. (c) conform to any further requirements determined by the authority from time to time.
+- (a) include a statement indicating the name and contact details of the person making the oral submission and the name and contact details of the person for whom the oral submission is made, if different;
+- (b) be clear and concise; and
+- (c) conform to any further requirements determined by the authority from time to time.
 
 - (6) If the Authority considers it necessary, it will provide the opportunity to the Applicant to respond to oral submissions.
 - (7) The Authority may request further oral or written submissions, for example, further information or clarification, which must be provided to the Authority in the time and in the manner as set out in regulation 7(8) and regulation 2 respectively in these regulations.
@@ -290,7 +286,9 @@ the Authority may by written notice to the holder of a type approval certificate
 - (2) Any person may submit to the Authority in writing a request to reconsider any decision made in terms of these regulations within thirty (30) days from the date that the decision has been made, and the Authority may reconsider the decision within ninety (90) days from the date that the decision has ben made.
 - (3) The Authority may publish its decision on reconsideration in terms of the provisions of these Regulations.
 
-L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ## ANNEXURE 1 FORM 1
 
@@ -428,7 +426,7 @@ Website:
 | 2x Identifying postcard size colour photographs of equipment submitted for type approval                                                                                                                |
 | Afunctional description of the equipment, at least at block diagram level                                                                                                                               |
 | Operating instructions                                                                                                                                                                                  |
-| Certified copy of declaration of conformity by applicant, manufacturer or supplier of tele- communications equipment including test report (both RF and EMC), issued by an ac- credited test laboratory |
+| Certified copy of declaration of conformity by applicant, manufacturer or supplier of telecommunications equipment including test report (both RF and EMC), issued by an ac- credited test laboratory |
 | Certified copies of test reports and certificate of compliance with Radio regulations issued by an accredited test laboratory                                                                           |
 | Certified copy of test report for Safety Regulations issued by an accredited test laboratory                                                                                                            |
 | Receipt issued by CRAN as per applicable fees                                                                                                                                                           |
@@ -633,7 +631,9 @@ In light of the above and pursuant to the provisions of of section 87(7) of the 
 
 The full reasons for the decision can be obtained from the Authority.
 
-## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ---
 
@@ -659,7 +659,9 @@ All written submissions and reply comments must be made either physically or ele
 - (4) by facsimile to the following facsimile number: +264 61 222790.
 - (5) by fax to e-mail to: 0886550852
 
-## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ## SCHEDULE 1
 
@@ -705,10 +707,9 @@ All written submissions and reply comments must be made either physically or ele
 - (4) by facsimile to the following facsimile number: +264 61 222790.
 - (5) by fax to e-mail to: 0886550852.
 
-## L.N. JACOBS
-
-## CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
-
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 ## SCHEDULE 1
 
 ## SUBMISSION OF PROPOSED TARIFFS IN TERMS OF SECTION 53(10) BY MTN BUSINESS SOLUTIONS (NAMIBIA) (PTY) LTD COMMUNICATIONS ACT, 2009
@@ -777,7 +778,8 @@ No. 26
 
 The Communications Regulatory Authority of Namibia, in terms of Regulations 7 and 11 of the 'Regulations Regarding Licensing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences', in Government Gazette No. 4785, General Notice No. 272, dated 29 August 2011 (as amended), herewith gives notice of the following licensee who have submitted applications for transfer of control of licence:
 
-1 Subject to authorisation by the Minister in terms of section 85(3) of the Communications Act.
+**1 Subject to authorisation by**  
+THE Minister in terms of section 85(3) of the Communications Act
 
 |                                                   | The transferors sold shares in the licensee to the transferees.           |
 |---------------------------------------------------|---------------------------------------------------------------------------|
@@ -800,7 +802,9 @@ All written submissions must be made either physically or electronically -
 - (4) By facsimile to the following facsimile number: +264 61 222790; or
 - (5) By fax to e-mail to: 0886550852.
 
-## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ---
 
@@ -810,7 +814,7 @@ No. 27
 
 The Communications Regulatory Authority of Namibia, in terms of section 38 of the Communications Act 8 of 2009 read with regulation 11 of the Regulations Regarding Licensing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences, in Government Gazette No. 4785, Notice No. 272, dated 29 August 2011 (as amended), herewith gives notice that the Applicant referred to in the table below has submitted an application for a Class Telecommunications Service (ECS) licence to the Authority:
 
-| Applicant;                          | Appli- cant's citizen- ship or place of incorpo- ration;   | Percentage of Stock owned by Namibian Citi- zens or Namibian Companies Con- trolled by Namib- ian Citizens;   | Category of class telecommunica- tions service licence applied for;   | Telecommuni- cation services intended to be pro- vided by applicant;   | Proof of Licence Application Fees Paid Up to Date Submitted;   |
+| Applicant;                          | Appli- cant's citizenship or place of incorpo- ration;   | Percentage of Stock owned by Namibian Citi- zens or Namibian Companies Con- trolled by Namibian Citizens;   | Category of class telecommunica- tions service licence applied for;   | Telecommuni- cation services intended to be provided by applicant;   | Proof of Licence Application Fees Paid Up to Date Submitted;   |
 |-------------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|
 | Demshi Investment Holding (PTY) LTD | Namibia                                                    | 100%                                                                                                          | Class Electronic Communications Services (ECS)                        | Electronic Communications                                              | Yes                                                            |
 
@@ -828,7 +832,9 @@ All written submissions and reply comments must be made either physically or ele
 - (4) By facsimile to the following facsimile number: +264 61 222790; or
 - (5) By fax to e-mail to: 0886550852.
 
-## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ---
 
@@ -879,7 +885,9 @@ All written submissions and reply comments must be made either physically or ele
 - (4) By facsimile to the following facsimile number: +264 61 222790; or
 - (5) By fax to e-mail to: 0886550852.
 
-## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ---
 
@@ -897,7 +905,7 @@ Broadcasting Service Licence Application:
 |--------------------------------------------------|
 | Yes, application is contained in part (b) below. |
 | Own                                              |
-| Community Broad- casting Service Licence         |
+| Community Broadcasting Service Licence         |
 | 100%                                             |
 | Namibian                                         |
 | Shalom Messen- ger Ministries Incorporated 1     |
@@ -931,7 +939,9 @@ All written submissions and reply comments must be made either physically or ele
 - (4) By facsimile to the following facsimile number: +264 61 222790; or
 - (5) By fax to e-mail to: 0886550852.
 
-## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ---
 
@@ -945,26 +955,26 @@ The Communications Regulatory Authority of Namibia, in terms of section 85 and 1
 
 | Proof of Application fees paid up to date submitted?                                                                                                      | Yes                                                |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| Whether applicant in- tends to use spectrum in the provision of broad- casting services intended to be provided;                                          | Yes, application is con- tained in part (b) below. |
+| Whether applicant in- tends to use spectrum in the provision of broadcasting services intended to be provided;                                          | Yes, application is con- tained in part (b) below. |
 | Provision of signal distribution;                                                                                                                         | Own                                                |
-| Category of Broadcasting service licence as contemplated in the Regulations Setting out Broad- casting and Telecommunications Service Licence categories; | Commercial Broadcasting Service Licence            |
+| Category of Broadcasting service licence as contemplated in the Regulations Setting out Broadcasting and Telecommunications Service Licence categories; | Commercial Broadcasting Service Licence            |
 | Percentage of Stock owned by Namibian Citizens or Namibian Companies Controlled by Namibian Citizens;                                                     | 100%                                               |
-| Applicant's citizen- ship or place of incorporation;                                                                                                      | Namibia                                            |
+| Applicant's citizenship or place of incorporation;                                                                                                      | Namibia                                            |
 | Applicants Name;                                                                                                                                          | TRUSTCO Administrative Support Services (Pty) LTD  |
 
 (b) Spectrum Use Licence Application:
 
-| Party providing Signal Distribu- tion;                                                                           | Own                               | Own                               | Own                               | Own                               |
+| Party providing Signal Distribution;                                                                           | Own                               | Own                               | Own                               | Own                               |
 |------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-| Service to be pro- vided using frequency applied for;                                                            | Commercial Broad- casting Service | Commercial Broad- casting Service | Commercial Broad- casting Service | Commercial Broad- casting Service |
+| Service to be provided using frequency applied for;                                                            | Commercial Broadcasting Service | Commercial Broadcasting Service | Commercial Broadcasting Service | Commercial Broadcasting Service |
 | Maximum Output power;                                                                                            | 1000.000W                         | 100.000W                          | 100.000W                          | 100.000W                          |
 | Description of geographic coverage area(s) Region; District; City/Town;                                          | Oshakati                          | Mariental                         | Otjiwarongo                       | Keetman- shoop                    |
 |                                                                                                                  | Oshakati                          | Mariental                         | Otji- warongo                     | Keetman- shoop                    |
 |                                                                                                                  | Oshana                            | Karas                             | Otjozon- djupa                    | Karas                             |
 | List of radio frequencies or groups of radio frequencies being consid- ered for as- signment by the Author- ity; | 105.600 MHz                       | 104.900 MHz                       | 105.900 MHz                       | 106.000 MHz                       |
 | List of radio frequencies or groups of radio frequencies ap- plied for;                                          | 88- 108 MHz                       | 88- 108 MHz                       | 88- 108 MHz                       | 88- 108 MHz                       |
-| Percentage of Stock owned by Namib- ian Citizens or Namibian Companies controlled by Namibian Citizens;          | 100%                              |                                   |                                   |                                   |
-| Applicant's citizenship or place of incorpora- tion;                                                             | Namibia                           |                                   |                                   |                                   |
+| Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens;          | 100%                              |                                   |                                   |                                   |
+| Applicant's citizenship or place of incorporation;                                                             | Namibia                           |                                   |                                   |                                   |
 | Applicant's Name;                                                                                                | TRUSTCOAd- ministrative Sup-      | port Services (Pty) LTD           |                                   |                                   |
 
 The public may submit comments in writing to the Authority within a period of fourteen (14) days from the date of publication of this notice in the Gazette .
@@ -981,6 +991,8 @@ All written submissions and reply comments must be made either physically or ele
 - (4) By facsimile to the following facsimile number: +264 61 222790; or
 - (5) By fax to e-mail to: 0886550852.
 
-## L.N. JACOBS CHAIRPERSON OF THE BOARD OF DIRECTORS COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**L.N. JACOBS**  
+CHAIRPERSON OF THE BOARD OF DIRECTORS  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ---

@@ -5,7 +5,9 @@ No. 321
 
 The Communications Regulatory Authority of Namibia in terms of section 100(1) read with section 129 of the Communications Act, 2009 (Act No. 8 of 2009), prescribes the Frequency Channelling Plan in respect of Analogue Frequency Modulation Radio Broadcasting set out in the Schedule.
 
-## H. M. GAOMAB II CHAIRPERSON OF THE BOARD COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
+**H. M. GAOMAB II**  
+CHAIRPERSON OF THE  
+COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
 ## SCHEDULE
 
@@ -20,9 +22,7 @@ The Communications Regulatory Authority of Namibia in terms of section 100(1) re
 | Aminuis     | 23°40'35.5'S | 19°26'01.6'E |              98.5 | Vertical       |               250 | Omaheke  |
 | Andara      | 18°430.01'S  | 21°25'11.6'E |              99.0 | Vertical       |                25 | Caprivi  |
 
-## GOVERNMENT GAZETTE OF THE
-
-## REPUBLIC OF NAMIBIA
+## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
 N$11.40
 

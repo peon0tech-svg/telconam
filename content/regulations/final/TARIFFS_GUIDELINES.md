@@ -131,7 +131,8 @@ If the tariff is not approved or approved with conditions, the Authority will si
 - e) The file shall only be viewed at the premises of the Authority during office hours as contemplated in section 27(8) of the Act.
 - f) A request to view the file must be made in writing to the Authority on the form attached to this document as Annexure I.
 
-## F. KISHI CHAIRPERSON
+**F. KISHI**  
+CHAIRPERSON
 
 - ANNEXURE I: APPLICATION FORM TO VIEW A TARIFF REGISTER
 
