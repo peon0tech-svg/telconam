@@ -426,7 +426,7 @@ Website:
 | 2x Identifying postcard size colour photographs of equipment submitted for type approval                                                                                                                |
 | Afunctional description of the equipment, at least at block diagram level                                                                                                                               |
 | Operating instructions                                                                                                                                                                                  |
-| Certified copy of declaration of conformity by applicant, manufacturer or supplier of telecommunications equipment including test report (both RF and EMC), issued by an ac- credited test laboratory |
+| Certified copy of declaration of conformity by applicant, manufacturer or supplier of telecommunications equipment including test report (both RF and EMC), issued by an accredited test laboratory |
 | Certified copies of test reports and certificate of compliance with Radio regulations issued by an accredited test laboratory                                                                           |
 | Certified copy of test report for Safety Regulations issued by an accredited test laboratory                                                                                                            |
 | Receipt issued by CRAN as per applicable fees                                                                                                                                                           |
@@ -476,13 +476,13 @@ ANNEXURE 2 TYPE APPROVAL FEES
 | Private Exchange Equipment       | Voice messaging system                                                                 |    1,500.00 |
 | Private Exchange Equipment       | Switchboard equipment                                                                  |    1,500.00 |
 | Private Exchange Equipment       | Media convergence server                                                               |    1,500.00 |
-| Radio Communications Equip- ment | High Frequency (HF)                                                                    |      450.00 |
-| Radio Communications Equip- ment | Very High Frequency (VHF)                                                              |      450.00 |
-| Radio Communications Equip- ment | Ultra-Hugh Frequency (UHF)                                                             |      450.00 |
-| Radio Communications Equip- ment | Radio alarm transmitter                                                                |      450.00 |
-| Radio Communications Equip- ment | Citizen band                                                                           |      450.00 |
-| Radio Communications Equip- ment | Amateur                                                                                |      450.00 |
-| Satellite Earth Terminal         | Global Mobile Personal Communica- tions Services (GMPCS) terminal (with ITU MoU Mark)  |      100.00 |
+| Radio Communications Equipment | High Frequency (HF)                                                                    |      450.00 |
+| Radio Communications Equipment | Very High Frequency (VHF)                                                              |      450.00 |
+| Radio Communications Equipment | Ultra-Hugh Frequency (UHF)                                                             |      450.00 |
+| Radio Communications Equipment | Radio alarm transmitter                                                                |      450.00 |
+| Radio Communications Equipment | Citizen band                                                                           |      450.00 |
+| Radio Communications Equipment | Amateur                                                                                |      450.00 |
+| Satellite Earth Terminal         | Global Mobile Personal Communications Services (GMPCS) terminal (with ITU MoU Mark)  |      100.00 |
 | Satellite Earth Terminal         | Global Mobile Personal Communications Services (GMPCS) terminal (without ITU MoU Mark) |      450.00 |
 | Satellite Earth Terminal         | Very Small Aperture Terminal (VSAT)                                                    |    1,500.00 |
 
@@ -490,11 +490,11 @@ ANNEXURE 2 TYPE APPROVAL FEES
 |-------------------------------------------------------|-----------------------------------------------------------------------|----------|
 | Short Range Devices/Low power terminals               | Alarms and movement detectors                                         |   250.00 |
 | Short Range Devices/Low power terminals               | Closed-circuit television (CCTV)                                      |   250.00 |
-| Short Range Devices/Low power terminals               | Cordless audio devices, including wire- less microphones              |   250.00 |
+| Short Range Devices/Low power terminals               | Cordless audio devices, including wireless microphones              |   250.00 |
 | Short Range Devices/Low power terminals               | Industrial control                                                    |   350.00 |
 | Short Range Devices/Low power terminals               | Local Area Networks                                                   |   350.00 |
 | Short Range Devices/Low power terminals               | Medical implants                                                      |   350.00 |
-| Short Range Devices/Low power terminals               | Ultra-Wideband (UWB) Sensors &Ra- dars (such as ground probing radar) |   250.00 |
+| Short Range Devices/Low power terminals               | Ultra-Wideband (UWB) Sensors &Radars (such as ground probing radar) |   250.00 |
 | Short Range Devices/Low power terminals               | Remote control                                                        |   250.00 |
 | Short Range Devices/Low power terminals               | Radio frequency identification (RFID)                                 |   250.00 |
 | Short Range Devices/Low power terminals               | Road Transport Telematics                                             |   250.00 |
@@ -509,7 +509,7 @@ ANNEXURE 2 TYPE APPROVAL FEES
 | Telephone Terminal Equipment                          | Cordless executive telephone                                          |   450.00 |
 | Telephone Terminal Equipment                          | Intelligent executive telephone                                       |   450.00 |
 | Telephone Terminal Equipment                          | Answering machine unit                                                |   450.00 |
-| Telephone Terminal Equipment                          | Global System for Mobile (GSM) termi- nal                             |   450.00 |
+| Telephone Terminal Equipment                          | Global System for Mobile (GSM) terminal                             |   450.00 |
 | Telephone Terminal Equipment                          | Code Division Multiple Access (CDMA) terminal                         |   450.00 |
 | Digital Set-Top Box                                   | All Types                                                             |   450.00 |
 | Voice Over Internet Protocol (VOIP) Network Equipment | E1 interface card                                                     | 2,500.00 |
@@ -720,7 +720,7 @@ MTN BIZSAT VSAT Tariffs - V1
 
 | Standard Package rates - Public IP   | Standard Package rates - Public IP   | Standard Package rates - Public IP   | Standard Package rates - Public IP   | Standard Package rates - Public IP   | Standard Package rates - Public IP   | Standard Package rates - Public IP   | Standard Package rates - Public IP   |
 |--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
-| UPLOAD SPEED                         | DOWN- LOAD SPEED                     | CAPPING                              | Month-to- Month                      | 12 Months                            | 18 Months                            | 24 Months                            | 36 Months                            |
+| UPLOAD SPEED                         | DOWNLOAD SPEED                     | CAPPING                              | Month-to- Month                      | 12 Months                            | 18 Months                            | 24 Months                            | 36 Months                            |
 | 384k/1024k                           | 10 MBPS                              | 500MB                                | 630                                  | 590                                  | 550                                  | 510                                  | 480                                  |
 | 384k/1024k                           | 10 MBPS                              | 1 GIG                                | 810                                  | 760                                  | 710                                  | 660                                  | 610                                  |
 | 384k/1024k                           | 10 MBPS                              | 3 GIG                                | 1 570                                | 1 470                                | 1 370                                | 1 270                                | 1 180                                |
@@ -730,7 +730,7 @@ MTN BIZSAT VSAT Tariffs - V1
 | 384k/1024k                           | 10 MBPS                              | 30 GIG                               | 10 030                               | 9 420                                | 8 670                                | 7 920                                | 7 540                                |
 | 384k/1024k                           | 10 MBPS                              | 50 GIG                               | 15 600                               | 15 060                               | 13 980                               | 12 910                               | 12 360                               |
 | Standard Package rates - Private IP  | Standard Package rates - Private IP  | Standard Package rates - Private IP  | Standard Package rates - Private IP  | Standard Package rates - Private IP  | Standard Package rates - Private IP  | Standard Package rates - Private IP  | Standard Package rates - Private IP  |
-| UPLOAD SPEED                         | DOWN- LOAD SPEED                     | CAPPING                              | Month-to- Month                      | 12 Months                            | 18 Months                            | 24 Months                            | 36 Months                            |
+| UPLOAD SPEED                         | DOWNLOAD SPEED                     | CAPPING                              | Month-to- Month                      | 12 Months                            | 18 Months                            | 24 Months                            | 36 Months                            |
 | 384k/1024k                           | 10 MBPS                              | 500MB                                | 470                                  | 440                                  | 410                                  | 380                                  | 360                                  |
 | 384k/1024k                           | 10 MBPS                              | 1 GIG                                | 650                                  | 610                                  | 570                                  | 530                                  | 490                                  |
 | 384k/1024k                           | 10 MBPS                              | 3 GIG                                | 1 410                                | 1 320                                | 1 230                                | 1 140                                | 1 060                                |
@@ -751,7 +751,7 @@ MTN BIZSAT VSAT Tariffs - V1
 
 | 3.Top up Gigs       | 3.Top up Gigs       | 3.Top up Gigs   | Month-to- Month   | Top-up          |
 |---------------------|---------------------|-----------------|-------------------|-----------------|
-|                     | Intervals           | Discount        | Cost price/ GB    | Denomi- nations |
+|                     | Intervals           | Discount        | Cost price/ GB    | Denominations |
 |                     | 06h00- 18h00        | 0%              | 340               | 100             |
 |                     | 18h00- 20h00        | 25%             | 260               | 300             |
 |                     | 22h00- 24h00        | 50%             | 170               | 500             |
@@ -814,7 +814,7 @@ No. 27
 
 The Communications Regulatory Authority of Namibia, in terms of section 38 of the Communications Act 8 of 2009 read with regulation 11 of the Regulations Regarding Licensing Procedures for Telecommunications and Broadcasting Service Licences and Spectrum Use Licences, in Government Gazette No. 4785, Notice No. 272, dated 29 August 2011 (as amended), herewith gives notice that the Applicant referred to in the table below has submitted an application for a Class Telecommunications Service (ECS) licence to the Authority:
 
-| Applicant;                          | Appli- cant's citizenship or place of incorpo- ration;   | Percentage of Stock owned by Namibian Citi- zens or Namibian Companies Con- trolled by Namibian Citizens;   | Category of class telecommunica- tions service licence applied for;   | Telecommuni- cation services intended to be provided by applicant;   | Proof of Licence Application Fees Paid Up to Date Submitted;   |
+| Applicant;                          | Applicant's citizenship or place of incorporation;   | Percentage of Stock owned by Namibian Citizens or Namibian Companies Controlled by Namibian Citizens;   | Category of class telecommunications service licence applied for;   | Telecommunication services intended to be provided by applicant;   | Proof of Licence Application Fees Paid Up to Date Submitted;   |
 |-------------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|
 | Demshi Investment Holding (PTY) LTD | Namibia                                                    | 100%                                                                                                          | Class Electronic Communications Services (ECS)                        | Electronic Communications                                              | Yes                                                            |
 
@@ -908,7 +908,7 @@ Broadcasting Service Licence Application:
 | Community Broadcasting Service Licence         |
 | 100%                                             |
 | Namibian                                         |
-| Shalom Messen- ger Ministries Incorporated 1     |
+| Shalom Messenger Ministries Incorporated 1     |
 
 ## (b) Spectrum Use Licence Application
 
@@ -955,7 +955,7 @@ The Communications Regulatory Authority of Namibia, in terms of section 85 and 1
 
 | Proof of Application fees paid up to date submitted?                                                                                                      | Yes                                                |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| Whether applicant in- tends to use spectrum in the provision of broadcasting services intended to be provided;                                          | Yes, application is con- tained in part (b) below. |
+| Whether applicant intends to use spectrum in the provision of broadcasting services intended to be provided;                                          | Yes, application is contained in part (b) below. |
 | Provision of signal distribution;                                                                                                                         | Own                                                |
 | Category of Broadcasting service licence as contemplated in the Regulations Setting out Broadcasting and Telecommunications Service Licence categories; | Commercial Broadcasting Service Licence            |
 | Percentage of Stock owned by Namibian Citizens or Namibian Companies Controlled by Namibian Citizens;                                                     | 100%                                               |
@@ -971,8 +971,8 @@ The Communications Regulatory Authority of Namibia, in terms of section 85 and 1
 | Description of geographic coverage area(s) Region; District; City/Town;                                          | Oshakati                          | Mariental                         | Otjiwarongo                       | Keetman- shoop                    |
 |                                                                                                                  | Oshakati                          | Mariental                         | Otji- warongo                     | Keetman- shoop                    |
 |                                                                                                                  | Oshana                            | Karas                             | Otjozon- djupa                    | Karas                             |
-| List of radio frequencies or groups of radio frequencies being consid- ered for as- signment by the Author- ity; | 105.600 MHz                       | 104.900 MHz                       | 105.900 MHz                       | 106.000 MHz                       |
-| List of radio frequencies or groups of radio frequencies ap- plied for;                                          | 88- 108 MHz                       | 88- 108 MHz                       | 88- 108 MHz                       | 88- 108 MHz                       |
+| List of radio frequencies or groups of radio frequencies being considered for assignment by the Authority; | 105.600 MHz                       | 104.900 MHz                       | 105.900 MHz                       | 106.000 MHz                       |
+| List of radio frequencies or groups of radio frequencies applied for;                                          | 88- 108 MHz                       | 88- 108 MHz                       | 88- 108 MHz                       | 88- 108 MHz                       |
 | Percentage of Stock owned by Namibian Citizens or Namibian Companies controlled by Namibian Citizens;          | 100%                              |                                   |                                   |                                   |
 | Applicant's citizenship or place of incorporation;                                                             | Namibia                           |                                   |                                   |                                   |
 | Applicant's Name;                                                                                                | TRUSTCOAd- ministrative Sup-      | port Services (Pty) LTD           |                                   |                                   |
